@@ -1,0 +1,6 @@
+---
+---
+# PROVERBS 22
+##  A GOOD NAME (22:1): 
+##  SOME GENERAL GUIDANCE (22:2-16): 
+##  SOME GOOD ADVICE (22:17-29): 
