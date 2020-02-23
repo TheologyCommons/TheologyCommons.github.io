@@ -1,0 +1,14 @@
+---
+layout: outline
+title: PROVERBS 29
+---
+[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 29.odp)
+# PROVERBS 29
+##  ACCEPTING CRITICISM (29:1): 
+##  WISDOM AND WICKEDNESS (29:2-8): 
+##  FACTS ABOUT A FOOL (29:9-11): 
+##  POTENTATES AND THE POOR (29:12-14): 
+##  SPANKING, NOT SPOILING (29:15-17): 
+##  NO REVELATION, NO RESTRAINT (29:18-19): 
+##  THOUGHTLESS SPEECH (29:20-26): 
+##  THE GODLY AND THE UNGODLY (29:27): 

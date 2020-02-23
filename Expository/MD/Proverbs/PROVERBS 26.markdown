@@ -1,0 +1,10 @@
+---
+layout: outline
+title: PROVERBS 26
+---
+[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 26.odp)
+# PROVERBS 26
+##  FACTS ON THE FOOL (26:1-12): 
+##  SEVEN TIMES SMARTER (26:13-16): 
+##  MIND YOUR OWN BUSINESS (26:17-19): 
+##  GOSSIP GENERATES GRIEF (26:20-28): 
