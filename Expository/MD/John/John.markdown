@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: John
+presentation: Expository/ODP/John/John.odp
 ---
-[Presentation](/Expository/ODP/John/John.odp)
 # John
 ## JOHN 1
 ### FACTS CONCERNING THE PREINCARNATE CHRIST (1:1-5) 

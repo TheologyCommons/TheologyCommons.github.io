@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: 1 Thessalonians
+presentation: Expository/ODP/1%20Thessalonians/1%20Thessalonians.odp
 ---
-[Presentation](/Expository/ODP/1%20Thessalonians/1%20Thessalonians.odp)
 # 1 Thessalonians
 ## 1 THESSALONIANS 1 
 ### IT IS AN ENERGETIC CHURCH (1:1-3): 

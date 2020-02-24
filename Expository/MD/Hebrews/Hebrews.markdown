@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Hebrews
+presentation: Expository/ODP/Hebrews/Hebrews.odp
 ---
-[Presentation](/Expository/ODP/Hebrews/Hebrews.odp)
 # Hebrews
 ## Hebrews 1 
 ### Christ, The Selected One (1:1-3): 

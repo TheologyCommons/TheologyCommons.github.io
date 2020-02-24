@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Isaiah Part 5
+presentation: Expository/ODP/Isaiah%20Part%205/Isaiah%20Part%205.odp
 ---
-[Presentation](/Expository/ODP/Isaiah%20Part%205/Isaiah%20Part%205.odp)
 # Isaiah Part 5
 ## ISAIAH 36-37 
 ### HEZEKIAH AND THE ASSYRIAN DANGER (36:1-22; 37:1-20): 

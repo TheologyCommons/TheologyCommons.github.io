@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Psalms
+presentation: Expository/ODP/Psalms/Psalms.odp
 ---
-[Presentation](/Expository/ODP/Psalms/Psalms.odp)
 # Psalms
 ## PSALM 1 
 ### THE GODLY (1:1-3) 

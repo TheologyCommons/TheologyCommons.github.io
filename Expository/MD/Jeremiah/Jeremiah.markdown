@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Jeremiah
+presentation: Expository/ODP/Jeremiah/Jeremiah.odp
 ---
-[Presentation](/Expository/ODP/Jeremiah/Jeremiah.odp)
 # Jeremiah
 ## JEREMIAH 1-2 
 ### JEREMIAH\'S CONSECRATION (1:1-19) 

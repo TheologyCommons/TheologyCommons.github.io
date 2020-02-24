@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Ruth
+presentation: Expository/ODP/Ruth/Ruth.odp
 ---
-[Presentation](/Expository/ODP/Ruth/Ruth.odp)
 # Ruth
 ## RUTH 1-4
 ### RUTH RENOUNCING (1:1-22) 

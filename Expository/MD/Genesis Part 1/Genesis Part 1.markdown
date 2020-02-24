@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Genesis Part 1
+presentation: Expository/ODP/Genesis%20Part%201/Genesis%20Part%201.odp
 ---
-[Presentation](/Expository/ODP/Genesis%20Part%201/Genesis%20Part%201.odp)
 # Genesis Part 1
 ##  THE PRELIMINARIES (1-11) 
 ### GENESIS 1-2

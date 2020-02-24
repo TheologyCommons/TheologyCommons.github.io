@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Joshua
+presentation: Expository/ODP/Joshua/Joshua.odp
 ---
-[Presentation](/Expository/ODP/Joshua/Joshua.odp)
 # Joshua
 ## JOSHUA 1-2
 ### THE MESSENGER (1:1-18) 

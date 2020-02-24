@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: 1 Chronicles
+presentation: Expository/ODP/1%20Chronicles/1%20Chronicles.odp
 ---
-[Presentation](/Expository/ODP/1%20Chronicles/1%20Chronicles.odp)
 # 1 Chronicles
 ## 1 Chronicles 1-9 
 ### From Adam To Isaac\'s Sons (1:1-54) 

@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Isaiah Part 3
+presentation: Expository/ODP/Isaiah%20Part%203/Isaiah%20Part%203.odp
 ---
-[Presentation](/Expository/ODP/Isaiah%20Part%203/Isaiah%20Part%203.odp)
 # Isaiah Part 3
 ## ISAIAH 24-25 
 ### THE COMING GREAT TRIBULATION (24:1-13, 16b-22): 

@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: 2 Peter
+presentation: Expository/ODP/2%20Peter/2%20Peter.odp
 ---
-[Presentation](/Expository/ODP/2%20Peter/2%20Peter.odp)
 # 2 Peter
 ## 2 PETER 1 
 ### THE PROCLAMATION OF THE RIGHTEOUSNESS OF GOD (1:1-4): 

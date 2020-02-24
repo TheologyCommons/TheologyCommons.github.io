@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Exodus, Leviticus, Numbers
+presentation: Expository/ODP/Exodus,%20Leviticus,%20Numbers/Exodus,%20Leviticus,%20Numbers.odp
 ---
-[Presentation](/Expository/ODP/Exodus,%20Leviticus,%20Numbers/Exodus,%20Leviticus,%20Numbers.odp)
 # Exodus, Leviticus, Numbers
 ## EXODUS 2:1-15 
 ### THE BABY IN THE BASKET (Ex. 2:1-10) 

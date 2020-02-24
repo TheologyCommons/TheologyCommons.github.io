@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Haggai
+presentation: Expository/ODP/Haggai/Haggai.odp
 ---
-[Presentation](/Expository/ODP/Haggai/Haggai.odp)
 # Haggai
 ## HAGGAI 1-2 
 ### HIS AUGUST MESSAGE (1:1-15): 

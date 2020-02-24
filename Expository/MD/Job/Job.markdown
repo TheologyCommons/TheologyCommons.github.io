@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Job
+presentation: Expository/ODP/Job/Job.odp
 ---
-[Presentation](/Expository/ODP/Job/Job.odp)
 # Job
 ## JOB 1-2
 ### JOB\'S PRESTIGE (1:1-5) 

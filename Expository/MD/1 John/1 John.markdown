@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: 1 John
+presentation: Expository/ODP/1%20John/1%20John.odp
 ---
-[Presentation](/Expository/ODP/1%20John/1%20John.odp)
 # 1 John
 ## 1 JOHN 1 
 ### JESUS CHRIST, THE LIFE OF BELIEVERS (1:1-4) 

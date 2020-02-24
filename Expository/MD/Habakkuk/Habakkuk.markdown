@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Habakkuk
+presentation: Expository/ODP/Habakkuk/Habakkuk.odp
 ---
-[Presentation](/Expository/ODP/Habakkuk/Habakkuk.odp)
 # Habakkuk
 ## HABAKKUK 1-3 
 ###  THE SEARCH (1:1-2:13, 15-20): 

@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Isaiah Part 2
+presentation: Expository/ODP/Isaiah%20Part%202/Isaiah%20Part%202.odp
 ---
-[Presentation](/Expository/ODP/Isaiah%20Part%202/Isaiah%20Part%202.odp)
 # Isaiah Part 2
 ## ISAIAH 13-14 
 ### GOD\'S CONDEMNATION OF HIS FOES (13:1-22; 14:12-32) 

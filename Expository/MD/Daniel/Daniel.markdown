@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Daniel
+presentation: Expository/ODP/Daniel/Daniel.odp
 ---
-[Presentation](/Expository/ODP/Daniel/Daniel.odp)
 # Daniel
 ## DANIEL 1-2 
 ### THE KING\'S DIET REFUSED BY DANIEL (1:1-21) 

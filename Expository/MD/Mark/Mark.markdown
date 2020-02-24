@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Mark
+presentation: Expository/ODP/Mark/Mark.odp
 ---
-[Presentation](/Expository/ODP/Mark/Mark.odp)
 # Mark
 ## MARK 1
 ### EVENTS PRIOR TO JESUS\' MINISTRY (1:1-13) 

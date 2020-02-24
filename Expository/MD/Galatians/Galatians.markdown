@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Galatians
+presentation: Expository/ODP/Galatians/Galatians.odp
 ---
-[Presentation](/Expository/ODP/Galatians/Galatians.odp)
 # Galatians
 ## GALATIANS 1 
 ### PAUL\'S GREETINGS (1:2-5) 

@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: James
+presentation: Expository/ODP/James/James.odp
 ---
-[Presentation](/Expository/ODP/James/James.odp)
 # James
 ## SECTION OUTLINE ONE (JAMES 1) 
 ### JAMES\'S GREETING (1:1): 

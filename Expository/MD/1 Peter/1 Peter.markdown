@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: 1 Peter
+presentation: Expository/ODP/1%20Peter/1%20Peter.odp
 ---
-[Presentation](/Expository/ODP/1%20Peter/1%20Peter.odp)
 # 1 Peter
 ## 1 PETER 1 
 ### THE SOURCE OF OUR SALVATION (1:1-2) 

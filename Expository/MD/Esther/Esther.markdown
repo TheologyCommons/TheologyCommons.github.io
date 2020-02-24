@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Esther
+presentation: Expository/ODP/Esther/Esther.odp
 ---
-[Presentation](/Expository/ODP/Esther/Esther.odp)
 # Esther
 ## ESTHER 1-2 
 ### THE REJECTION OF VASHTI (1:1-22): 

@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Isaiah Part 7
+presentation: Expository/ODP/Isaiah%20Part%207/Isaiah%20Part%207.odp
 ---
-[Presentation](/Expository/ODP/Isaiah%20Part%207/Isaiah%20Part%207.odp)
 # Isaiah Part 7
 ## ISAIAH 49-50 
 ### THE FATHER AND IMMANUEL (49:1-13; 50:4-9) 

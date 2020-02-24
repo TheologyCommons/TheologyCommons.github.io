@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Matthew
+presentation: Expository/ODP/Matthew/Matthew.odp
 ---
-[Presentation](/Expository/ODP/Matthew/Matthew.odp)
 # Matthew
 ## MATTHEW 1-2 
 ### THE RECORD OF THE MESSIAH (1:1-17): 

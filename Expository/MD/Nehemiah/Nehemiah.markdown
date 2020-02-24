@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Nehemiah
+presentation: Expository/ODP/Nehemiah/Nehemiah.odp
 ---
-[Presentation](/Expository/ODP/Nehemiah/Nehemiah.odp)
 # Nehemiah
 ## NEHEMIAH 1-3
 ### THE REPORT (1:1-11) 

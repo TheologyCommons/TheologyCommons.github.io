@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Revelation
+presentation: Expository/ODP/Revelation/Revelation.odp
 ---
-[Presentation](/Expository/ODP/Revelation/Revelation.odp)
 # Revelation
 ## REVELATION 1
 ### THE SERVANT OF GOD (1:1-10): 

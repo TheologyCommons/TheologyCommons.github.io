@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Ecclesiastes
+presentation: Expository/ODP/Ecclesiastes/Ecclesiastes.odp
 ---
-[Presentation](/Expository/ODP/Ecclesiastes/Ecclesiastes.odp)
 # Ecclesiastes
 ## ECCLESIASTES 1 
 ### THE MAN (1:1, 12): The author introduces himself as King David\'s son-presumably Solomon-and notes that he once ruled over Israel. 

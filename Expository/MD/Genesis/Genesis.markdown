@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Genesis
+presentation: Expository/ODP/Genesis/Genesis.odp
 ---
-[Presentation](/Expository/ODP/Genesis/Genesis.odp)
 # Genesis
 ## PART ONE : THE PRELIMINARIES (1-11) 
 ### SECTION OUTLINE ONE (GENESIS 1-2) This section describes the creation of all things. 

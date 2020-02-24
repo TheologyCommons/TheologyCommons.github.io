@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Luke
+presentation: Expository/ODP/Luke/Luke.odp
 ---
-[Presentation](/Expository/ODP/Luke/Luke.odp)
 # Luke
 ## LUKE 1
 ### THE PREFACE (1:1-4) 

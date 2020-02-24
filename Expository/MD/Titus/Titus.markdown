@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Titus
+presentation: Expository/ODP/Titus/Titus.odp
 ---
-[Presentation](/Expository/ODP/Titus/Titus.odp)
 # Titus
 ## TITUS 1
 ### PAUL\'S INTRODUCTION (1:1-4) 

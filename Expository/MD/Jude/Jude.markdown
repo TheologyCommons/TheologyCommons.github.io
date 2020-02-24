@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Jude
+presentation: Expository/ODP/Jude/Jude.odp
 ---
-[Presentation](/Expository/ODP/Jude/Jude.odp)
 # Jude
 ## JUDE 1
 ### THE BURDEN TO WARN AGAINST APOSTASY (1:1-3) 

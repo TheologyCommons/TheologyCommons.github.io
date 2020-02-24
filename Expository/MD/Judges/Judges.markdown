@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Judges
+presentation: Expository/ODP/Judges/Judges.odp
 ---
-[Presentation](/Expository/ODP/Judges/Judges.odp)
 # Judges
 ## JUDGES 1-2
 ### THE CAMPAIGNS OF ISRAEL (1:1-36) 

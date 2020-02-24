@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Ezekiel
+presentation: Expository/ODP/Ezekiel/Ezekiel.odp
 ---
-[Presentation](/Expository/ODP/Ezekiel/Ezekiel.odp)
 # Ezekiel
 ## EZEKIEL 1-3 
 ### THE VISION (1:1-28): Ezekiel receives visions of God. 

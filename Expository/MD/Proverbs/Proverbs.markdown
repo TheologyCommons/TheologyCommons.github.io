@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Proverbs
+presentation: Expository/ODP/Proverbs/Proverbs.odp
 ---
-[Presentation](/Expository/ODP/Proverbs/Proverbs.odp)
 # Proverbs
 ## PROVERBS 1
 ###  THE REASONS FOR THE PROVERBS (1:1-7) 

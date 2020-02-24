@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: 2 Thessalonians
+presentation: Expository/ODP/2%20Thessalonians/2%20Thessalonians.odp
 ---
-[Presentation](/Expository/ODP/2%20Thessalonians/2%20Thessalonians.odp)
 # 2 Thessalonians
 ## 2 THESSALONIANS 1 
 ### PAUL\'S PRAISE OF THE CHURCH AT THESSALONICA (1:1-4) 

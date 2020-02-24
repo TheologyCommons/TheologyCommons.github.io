@@ -5,13 +5,11 @@
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Blueprint: Multi-Level Menu</title>
+	<title>{{ site.title }}:{{ page.title }}</title>
 	<meta name="description" content="Blueprint: A basic template for a responsive multi-level menu" />
 	<meta name="keywords" content="blueprint, template, html, css, menu, responsive, mobile-friendly" />
 	<meta name="author" content="Codrops" />
 	<link rel="shortcut icon" href="favicon.ico">
-	<!-- food icons -->
-	<link rel="stylesheet" type="text/css" href="/assets/css/organicfoodicons.css" />
 	<!-- demo styles -->
 	<link rel="stylesheet" type="text/css" href="/assets/css/demo.css" />
 	<!-- menu styles -->
@@ -35,7 +33,9 @@
 		<button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
 			{% include menu.html %}
 			<div class="content">
-			  {{ content }}
+			<iframe src = "/viewerjs/#/{{ page.presentation }}" width='400' height='300' allowfullscreen webkitallowfullscreen></iframe><br>
+			<a href="/{{ page.presentation }}">Download Sample Presentaion</a>
+			{{ content }}
 			</div>
 	</div>
 	<!-- /view -->

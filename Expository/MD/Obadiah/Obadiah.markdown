@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Obadiah
+presentation: Expository/ODP/Obadiah/Obadiah.odp
 ---
-[Presentation](/Expository/ODP/Obadiah/Obadiah.odp)
 # Obadiah
 ## OBADIAH 1
 ### THE HOUSE OF EDOM REDUCED BY GOD (1:1-16) 

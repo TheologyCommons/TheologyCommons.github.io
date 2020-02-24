@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Genesis Part 2
+presentation: Expository/ODP/Genesis%20Part%202/Genesis%20Part%202.odp
 ---
-[Presentation](/Expository/ODP/Genesis%20Part%202/Genesis%20Part%202.odp)
 # Genesis Part 2
 ## THE PATRIARCHS (12-50) 
 ### Abraham - GENESIS 12:1-25:18

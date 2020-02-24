@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Zephaniah
+presentation: Expository/ODP/Zephaniah/Zephaniah.odp
 ---
-[Presentation](/Expository/ODP/Zephaniah/Zephaniah.odp)
 # Zephaniah
 ## ZEPHANIAH 1-3 
 ### THE GRIEVOUS DAYS (1:1-3:8): 

@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Romans
+presentation: Expository/ODP/Romans/Romans.odp
 ---
-[Presentation](/Expository/ODP/Romans/Romans.odp)
 # Romans
 ## ROMANS 1
 ### THE COURT RECORDER (1:1-17): 

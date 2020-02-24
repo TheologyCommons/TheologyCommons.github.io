@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Acts
+presentation: Expository/ODP/Acts/Acts.odp
 ---
-[Presentation](/Expository/ODP/Acts/Acts.odp)
 # Acts
 ## ACTS 1 
 ### THE ACTION ON THE MOUNT OF OLIVES (1:1-11) 

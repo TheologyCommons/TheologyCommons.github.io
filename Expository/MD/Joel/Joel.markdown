@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Joel
+presentation: Expository/ODP/Joel/Joel.odp
 ---
-[Presentation](/Expository/ODP/Joel/Joel.odp)
 # Joel
 ## JOEL 1-3
 ###  CURRENT CONDITIONS (1:1-20): 

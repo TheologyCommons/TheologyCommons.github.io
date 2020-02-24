@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Micah
+presentation: Expository/ODP/Micah/Micah.odp
 ---
-[Presentation](/Expository/ODP/Micah/Micah.odp)
 # Micah
 ## MICAH 1-3
 ### THE DEPRAVITY OF JUDAH AND ISRAEL (2:1-2, 6-11; 3:1-5, 8-11) 

@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: Lamentations
+presentation: Expository/ODP/Lamentations/Lamentations.odp
 ---
-[Presentation](/Expository/ODP/Lamentations/Lamentations.odp)
 # Lamentations
 ## LAMENTATIONS 1
 ### HER SINS (1:8-9): 

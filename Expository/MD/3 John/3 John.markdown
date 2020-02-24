@@ -1,8 +1,8 @@
 ---
 layout: outline
 title: 3 John
+presentation: Expository/ODP/3%20John/3%20John.odp
 ---
-[Presentation](/Expository/ODP/3%20John/3%20John.odp)
 # 3 John
 ## 3 JOHN 1 
 ### THE PERSEVERANCE OF GAIUS THE EXHORTER (1:1-8, 13-14) 
