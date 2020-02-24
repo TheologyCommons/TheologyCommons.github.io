@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 2 Samuel
-presentation: Expository/ODP/2%20Samuel/2%20Samuel.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20Samuel.odp"%}
+
 # 2 Samuel
 ## 2 SAMUEL 1-2
 ### THE TEARS OF DAVID (1:1-27) 

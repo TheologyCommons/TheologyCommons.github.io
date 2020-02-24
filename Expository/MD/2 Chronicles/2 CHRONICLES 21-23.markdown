@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 21-23
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 21-23.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2021-23.odp"%}
+
 # 2 CHRONICLES 21-23 
 ## JEHORAM, JUDAH\'S FIFTH RULER (21:1-20): 
 ###  Jehoram\'s perversions (21:1-7, 11) 

@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 9-10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 9-10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%209-10.odp"%}
+
 # 1 Kings 9-10 
 ## THE WARNING TO SOLOMON (9:1-9) 
 ###  The glory of obedience (9:1-5): 

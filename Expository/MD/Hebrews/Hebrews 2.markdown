@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%202.odp"%}
+
 # Hebrews 2
 ## THE WARNING FROM CHRIST (2:1-4): 
 ###  The command (2:1-2) 

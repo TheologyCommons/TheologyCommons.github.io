@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 23-24
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 23-24.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2023-24.odp"%}
+
 # 2 SAMUEL 23-24
 ## THE SONG OF DAVID (23:1-7) 
 ###  God and the godly (23:1-5) 

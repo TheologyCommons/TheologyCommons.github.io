@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 11-15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 11-15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2011-15.odp"%}
+
 # JEREMIAH 11-15 
 ## FOURTH SERMON (11:1-12:17) 
 ###  The covenant (11:1-13) 

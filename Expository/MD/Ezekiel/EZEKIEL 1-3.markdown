@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 1-3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 1-3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%201-3.odp"%}
+
 # EZEKIEL 1-3 
 ## THE VISION (1:1-28): Ezekiel receives visions of God. 
 ###  Ezekiel and the cherubim of God (1:1-25) 

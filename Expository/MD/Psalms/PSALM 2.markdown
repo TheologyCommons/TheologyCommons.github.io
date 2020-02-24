@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%202.odp"%}
+
 # PSALM 2 
 ## THE APOSTATES (2:1-3): 
 ## THE ALMIGHTY (2:4-6) 

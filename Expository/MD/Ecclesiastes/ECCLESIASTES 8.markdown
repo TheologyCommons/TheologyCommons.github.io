@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%208.odp"%}
+
 # ECCLESIASTES 8 
 ## CONCERNING UNDERSTANDING (8:1, 16-17) 
 ###  Wisdom brightens a person\'s appearance (8:1). 

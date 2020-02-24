@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%207.odp"%}
+
 # ACTS 7 
 ## THE MESSAGE OF STEPHEN TO THE SANHEDRIN (7:1-53): 
 ###  Israel was favored by God before possessing either its Tabernacle or two Temples (7:138). 

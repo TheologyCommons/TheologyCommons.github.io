@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%207.odp"%}
+
 # ROMANS 7 
 ## SPIRITUAL PEOPLE AND THE LAW (7:1-6) 
 ###  Their relationship to the law (7:1-3, 5) 

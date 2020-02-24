@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%209.odp"%}
+
 # JOHN 9
 ## INCONSIDERATION! THE DISCIPLES AND THE BLIND MAN (9:1-5) 
 ###  They look upon the blind man (9:1): 

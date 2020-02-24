@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2011.odp"%}
+
 # ACTS 11 
 ## PETER AND THE CRITICS AT JERUSALEM (11:1-18) 
 ###  The accusation (11:1-3): 

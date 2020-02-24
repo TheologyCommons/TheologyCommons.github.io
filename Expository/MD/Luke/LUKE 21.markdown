@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2021.odp"%}
+
 # LUKE 21
 ## THE PRAISE FROM JESUS, IN REGARD TO A WIDOW (21:1-4): 
 ###  When much amounts to little (21:1, 4a): 

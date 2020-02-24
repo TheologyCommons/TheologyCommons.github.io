@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%208.odp"%}
+
 # 2 CORINTHIANS 8 
 ## GODLY GIVING-ILLUSTRATIONS (8:1-5, 9): 
 ###  The Macedonian believers (8:1-5) 

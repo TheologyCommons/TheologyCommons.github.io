@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%201.odp"%}
+
 # LUKE 1
 ## THE PREFACE (1:1-4) 
 ###  The review (1:1-2): 

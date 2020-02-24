@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2017.odp"%}
+
 # PROVERBS 17
 ##  A REFINING FIRE (17:1-5): 
 ##  FAMILY PRIDE (17:6): 

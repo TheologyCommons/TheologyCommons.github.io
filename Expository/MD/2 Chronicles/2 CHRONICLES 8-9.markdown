@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 8-9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 8-9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%208-9.odp"%}
+
 # 2 CHRONICLES 8-9 
 ## SOLOMON\'S RESOURCEFULNESS (8:1-18): Solomon accomplishes many great feats during his reign. 
 ###  Solomon the builder (8:1-10): 

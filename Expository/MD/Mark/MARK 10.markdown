@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%2010.odp"%}
+
 # MARK 10
 ## JESUS AND THE SUBJECT OF DIVORCE (10:1-12) 
 ###  The insincere group (10:1-9) 

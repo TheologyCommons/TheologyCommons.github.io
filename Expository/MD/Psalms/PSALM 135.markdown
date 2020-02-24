@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 135
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 135.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20135.odp"%}
+
 # PSALM 135 
 ## THE ONLY TRUE GOD (135:1-14, 19-21) 
 ###  Who should worship him? (135:1-2, 19-21): 

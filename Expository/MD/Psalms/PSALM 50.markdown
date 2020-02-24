@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 50
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 50.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2050.odp"%}
+
 # PSALM 50 
 ## THE JUDGE (50:1-3, 6): 
 ###  His summons (50:1, 6): 

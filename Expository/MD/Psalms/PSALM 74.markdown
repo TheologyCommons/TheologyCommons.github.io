@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 74
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 74.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2074.odp"%}
+
 # PSALM 74 
 ## ASAPH\'S FRUSTRATION (74:1-11): 
 ###  God seems to have angrily rejected his own people (74:1-2). 

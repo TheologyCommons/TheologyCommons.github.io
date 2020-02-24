@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 20-21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 20-21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2020-21.odp"%}
+
 # 2 SAMUEL 20-21
 ## THE TROUBLEMAKING OF SHEBA (20:1-22) 
 ###  Sheba\'s uprising (20:1-13) 

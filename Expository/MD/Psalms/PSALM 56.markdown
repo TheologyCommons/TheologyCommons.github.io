@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 56
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 56.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2056.odp"%}
+
 # PSALM 56 
 ## DAVID\'S GRIEVOUS FOES (56:1-2, 5-6) 
 ###  They dog his steps (56:1-2): 

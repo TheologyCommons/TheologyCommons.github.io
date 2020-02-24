@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 37
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 37.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2037.odp"%}
+
 # PSALM 37 
 ## THE GODLY (37:3-9, 11, 16-19, 21-31, 34, 37, 39-40) 
 ###  What they sow (37:3-5, 7-8, 16, 21, 30-31, 37) 

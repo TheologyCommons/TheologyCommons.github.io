@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 29
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 29.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2029.odp"%}
+
 # PSALM 29 
 ## THE VENERATION OF THE LORD (29:1-2): 
 ## THE VOICE OF THE LORD (29:3-9): 

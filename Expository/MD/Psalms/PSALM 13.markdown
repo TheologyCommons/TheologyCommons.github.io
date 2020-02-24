@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2013.odp"%}
+
 # PSALM 13 
 ## DAVID\'S PERPLEXITY (13:1-2): 
 ###  \"How long will you forget me?\" (13:1) 

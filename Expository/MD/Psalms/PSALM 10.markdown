@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2010.odp"%}
+
 # PSALM 10 
 ## THE ARROGANCE AND CONTEMPT OF THE GODLESS (10:2-11) 
 ###  Their vertical actions (10:3-4, 11): 

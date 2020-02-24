@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%202.odp"%}
+
 # 1 Corinthians 2 
 ## THE MESSAGE OF THE CROSS IS NOT OF THIS WORLD (2:1-6). 
 ###  The apostle\'s resolve (2:1-4) 

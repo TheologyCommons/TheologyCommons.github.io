@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2017.odp"%}
+
 # REVELATION 17
 ## THE INFORMATION IN REGARD TO THIS PROSTITUTE (17:1-6) 
 ###  Her corruption (17:1-2, 4) 

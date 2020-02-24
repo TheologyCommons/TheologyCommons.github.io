@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2013.odp"%}
+
 # ACTS 13 
 ## PAUL AND BARNABAS IN ANTIOCH OF SYRIA (13:1-3) 
 ###  They are chosen by the Spirit of God (13:1-2): 

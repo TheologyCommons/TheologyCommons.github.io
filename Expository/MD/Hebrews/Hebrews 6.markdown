@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%206.odp"%}
+
 # Hebrews 6 
 ## THE APPEAL FOR SPIRITUAL MATURITY (6:1-12) 
 ###  The author\'s challenge (6:1-3): 

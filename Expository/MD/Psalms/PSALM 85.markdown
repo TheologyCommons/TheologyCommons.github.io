@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 85
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 85.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2085.odp"%}
+
 # PSALM 85 
 ## ACKNOWLEDGING THE PAST (85:1-3) 
 ###  God restores his people (85:1): 

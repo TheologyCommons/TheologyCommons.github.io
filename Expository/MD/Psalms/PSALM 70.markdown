@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 70
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 70.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2070.odp"%}
+
 # PSALM 70 
 ## DAVID\'S CONCERN (70:1-3): 
 ###  They have slandered him! 

@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 24
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 24.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2024.odp"%}
+
 # MATTHEW 24
 ## THE CONTENT OF CHRIST\'S SERMON (24:1-26, 29) 
 ###  His remarks concerning the Temple destruction (24:1-3) 

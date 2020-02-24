@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 44
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 44.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2044.odp"%}
+
 # PSALM 44 
 ## ISRAEL\'S PAST GLORY (44:1-8) 
 ###  The power of God (44:1-3) 

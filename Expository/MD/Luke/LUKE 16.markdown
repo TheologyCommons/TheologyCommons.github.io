@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2016.odp"%}
+
 # LUKE 16
 ## PARABLE OF THE SHREWD MANAGER (16:1-18) 
 ###  The crisis (16:1-2) 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 96
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 96.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2096.odp"%}
+
 # PSALM 96 
 ## THE TWOFOLD INVITATION (96:1-10) 
 ###  The call to witness (96:1-6, 10): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%204.odp"%}
+
 # PROVERBS 4
 ##  DAVID\'S COUNSEL TO SOLOMON (4:1-9) 
 ###  Acquire wisdom (4:1-2, 5, 7): 

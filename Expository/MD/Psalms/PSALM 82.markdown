@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 82
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 82.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2082.odp"%}
+
 # PSALM 82 
 ## GOD\'S JUDGMENT UPON EARTHLY JUDGES (82:1-7) 
 ###  His indictment (82:1-2, 5-7) 

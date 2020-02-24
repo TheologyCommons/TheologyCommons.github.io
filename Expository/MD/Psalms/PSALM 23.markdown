@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 23
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 23.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2023.odp"%}
+
 # PSALM 23 
 ## THE SHEPHERD AND HIS SHEEP (23:1-4): 
 ###  He renews their strength (23:3). 

@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%2011.odp"%}
+
 # ECCLESIASTES 11 
 ## GENERAL RULES FOR ALL PEOPLE (11:1-6) 
 ###  Be generous (11:1-2). 

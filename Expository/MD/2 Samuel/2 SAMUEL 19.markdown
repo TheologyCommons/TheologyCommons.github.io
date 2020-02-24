@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2019.odp"%}
+
 # 2 SAMUEL 19
 ## THE TEARS OF DAVID (19:1-7) 
 ###  David\'s anguish (19:1-4): 

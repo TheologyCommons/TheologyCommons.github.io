@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 16-20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 16-20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2016-20.odp"%}
+
 # JEREMIAH 16-20 
 ## SEVENTH SERMON (16:1-17:27) 
 ###  The prohibitions-what Jeremiah is not to do (16:1-9) 

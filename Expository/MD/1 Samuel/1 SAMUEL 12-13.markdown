@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 12-13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 12-13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2012-13.odp"%}
+
 # 1 SAMUEL 12-13 
 ## SAMUEL\'S FAREWELL SPEECH (12:1-25) 
 ###  The contents (12:1-13): Samuel reviews the faithfulness that has been shown to Israel by himself and the Lord. 

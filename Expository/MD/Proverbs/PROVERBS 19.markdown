@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2019.odp"%}
+
 # PROVERBS 19
 ##  WEALTH AND WISDOM (19:1-4): 
 ##  DECEIVERS AND LIARS (19:5-9): 

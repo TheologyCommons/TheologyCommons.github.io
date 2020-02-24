@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 18-19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 18-19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%2018-19.odp"%}
+
 # 1 Kings 18-19 
 ## ELIJAH ON A ROAD (18:1-16): 
 ###  Obadiah the faithful manager (18:1-6): 

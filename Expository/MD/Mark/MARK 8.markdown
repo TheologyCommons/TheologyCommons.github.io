@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%208.odp"%}
+
 # MARK 8
 ## THE PROVISION BY THE SAVIOR (8:1-10) 
 ###  His concern (8:1-4, 9-10) 

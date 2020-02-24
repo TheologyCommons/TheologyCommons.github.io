@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2018.odp"%}
+
 # PSALM 18 
 ## DAVID\'S DISTRESS (18:4-6): 
 ## DAVID\'S DELIVERANCE (18:7-49) 

@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2013.odp"%}
+
 # MATTHEW 13
 ## THE RELATING OF HIS PARABLES (13:1-8, 18-33, 36-50, 52) 
 ###  The sower, the seed, and the soil (13:1-8, 18-23) 

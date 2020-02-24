@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2013.odp"%}
+
 # REVELATION 13
 ## THE BEAST OUT OF THE SEA (13:1-10): 
 ###  His appearance (13:1-2) 

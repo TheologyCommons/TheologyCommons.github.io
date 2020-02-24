@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2018.odp"%}
+
 # LUKE 18
 ## EVENTS BEFORE THE RICH-MAN EPISODE (18:1-17): 
 ###  The illustrations (18:1-14): 

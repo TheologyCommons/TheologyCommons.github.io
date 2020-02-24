@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 30-31
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 30-31.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2030-31.odp"%}
+
 # JEREMIAH 30-31 
 ## THE CLEANSING PRECEDING THIS RESTORATION (30:4-8, 11-16, 23-24; 31:15): 
 ###  For the Gentile nations (30:16, 23-24) 

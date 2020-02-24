@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%204.odp"%}
+
 # MARK 4
 ## JESUS RELATES HIS PARABLES (4:1-34) 
 ###  Parable of the sower and the seed (4:1-20) 

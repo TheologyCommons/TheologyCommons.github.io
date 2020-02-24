@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%2017.odp"%}
+
 # 2 KINGS 17 
 ## THE REVOLT BY HOSHEA (17:1-6): 
 ###  The abomination by Hoshea (17:1-2): 

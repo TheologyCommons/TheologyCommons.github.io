@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 23-25
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 23-25.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2023-25.odp"%}
+
 # JEREMIAH 23-25 
 ## TENTH SERMON (23:1-40) 
 ###  Regarding Judah\'s politicians (23:1-8) 

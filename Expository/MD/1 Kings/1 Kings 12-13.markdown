@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 12-13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 12-13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%2012-13.odp"%}
+
 # 1 Kings 12-13 
 ## REHOBOAM (12:1-24): After Solomon\'s death, Rehoboam is the new king over all Israel. 
 ###  The arrogance (12:1-20) 

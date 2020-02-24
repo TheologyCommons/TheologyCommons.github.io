@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%2012.odp"%}
+
 # ROMANS 12
 ## THE BELIEVER AND SELF (12:1-2) 
 ###  What we are to offer (12:1): 

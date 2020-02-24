@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%205.odp"%}
+
 # 2 CORINTHIANS 5 
 ## I.THE REASSURANCE (5:1-8): 
 ###  The old body (5:1a, 2a, 3-4a, 6-8) 

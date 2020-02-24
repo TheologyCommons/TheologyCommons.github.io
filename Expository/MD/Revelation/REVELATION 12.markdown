@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2012.odp"%}
+
 # REVELATION 12
 ## SATAN\'S FORMER HATRED FOR GOD AND HIS PEOPLE (12:1-5) 
 ###  His sin at the beginning (12:3-4): 

@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%206.odp"%}
+
 # ACTS 6 
 ## THE SELECTION OF THE SEVEN DEACONS (6:1-7) 
 ###  The complaint to the church leaders (6:1): 

@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%2015.odp"%}
+
 # MARK 15
 ## EVENTS PRECEDING THE CRUCIFIXION (15:1-21) 
 ###  The conspiracy (15:1): 

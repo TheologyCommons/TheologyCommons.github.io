@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%202.odp"%}
+
 # PROVERBS 2
 ##  IT WILL SANCTIFY YOU (2:1-6): 
 ##  IT WILL SECURE YOU (2:7-9): 

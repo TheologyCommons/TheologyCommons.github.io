@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%2011.odp"%}
+
 # MARK 11
 ## THE CELEBRATION (11:1-11) 
 ###  The preparation (11:1-7) 

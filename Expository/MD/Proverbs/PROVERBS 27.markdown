@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 27
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 27.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2027.odp"%}
+
 # PROVERBS 27
 ##  NEITHER BOAST NOR BRAG (27:1-3): 
 ##  MORE DANGEROUS THAN ANGER (27:4): 

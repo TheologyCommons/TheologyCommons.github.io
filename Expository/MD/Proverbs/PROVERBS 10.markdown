@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2010.odp"%}
+
 # PROVERBS 10
 ##  THE TWO CHILDREN (10:1-7) 
 ###  The wise child brings joy to his father (10:1-7). 

@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%207.odp"%}
+
 # MATTHEW 7
 ## JESUS\' EXHORTATIONS (7:1-12) 
 ###  Our responsibilities to the saved (7:1-2): 

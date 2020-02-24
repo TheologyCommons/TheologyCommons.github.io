@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2017.odp"%}
+
 # PSALM 17 
 ## HEAR ME! (17:1-2, 6): 
 ## VINDICATE ME! (17:3-5): 

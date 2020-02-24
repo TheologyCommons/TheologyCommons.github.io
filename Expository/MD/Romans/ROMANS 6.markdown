@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%206.odp"%}
+
 # ROMANS 6
 ## STEP 1-KNOW (6:1-10): Believers must be aware of three facts. 
 ###  They have been crucified with Christ (6:1-3). 

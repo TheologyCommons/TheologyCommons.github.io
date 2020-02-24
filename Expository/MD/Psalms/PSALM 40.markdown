@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 40
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 40.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2040.odp"%}
+
 # PSALM 40 
 ## DAVID\'S PRAISE (40:1-10) 
 ###  What God has done (40:1-5) 

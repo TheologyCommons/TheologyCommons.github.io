@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Isaiah Part 4
-presentation: Expository/ODP/Isaiah%20Part%204/Isaiah%20Part%204.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Isaiah%20Part%204/Isaiah%20Part%204.odp"%}
+
 # Isaiah Part 4
 ## ISAIAH 28-29
 ### ISRAEL\'S REJECTION (28:1-4, 7-29; 29:1-4, 9-16) 

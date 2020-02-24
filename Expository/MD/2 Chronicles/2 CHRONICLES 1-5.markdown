@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 1-5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 1-5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%201-5.odp"%}
+
 # 2 CHRONICLES 1-5 
 ## SOLOMON\'S GREAT WISDOM FROM GOD (1:1-1 7) 
 ###  The background (1:1-5): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 67
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 67.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2067.odp"%}
+
 # PSALM 67 
 ## THE FEATURES OF THE PSALMIST\'S PRAYER (67:1-5) 
 ###  May God\'s glory be seen among his people (67:1). 

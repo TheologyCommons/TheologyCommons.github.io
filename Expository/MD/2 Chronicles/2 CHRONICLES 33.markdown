@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 33
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 33.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2033.odp"%}
+
 # 2 CHRONICLES 33 
 ## MANASSEH, JUDAH\'S FOURTEENTH RULER (33:1-20): 
 ###  The rebellious king (33:1-11) 

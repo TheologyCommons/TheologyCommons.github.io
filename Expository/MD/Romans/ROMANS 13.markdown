@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%2013.odp"%}
+
 # ROMANS 13
 ## DUTIES TOWARD THE RULERS OF THE STATE (13:1-7) 
 ###  What we are to do (13:1, 6-7) 

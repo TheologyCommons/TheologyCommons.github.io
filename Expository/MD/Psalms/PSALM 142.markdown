@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 142
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 142.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20142.odp"%}
+
 # PSALM 142 
 ## DAVID\'S DESPERATION (142:1-4) 
 ###  The abundance of foes (142:1-3): 

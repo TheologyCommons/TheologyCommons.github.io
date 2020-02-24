@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 106
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 106.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20106.odp"%}
+
 # PSALM 106 
 ## A REQUEST FOR THE PRESENT (106:1-5, 47-48): 
 ###  Regard us (106:1-5, 48). 

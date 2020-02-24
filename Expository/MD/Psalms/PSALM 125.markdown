@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 125
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 125.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20125.odp"%}
+
 # PSALM 125 
 ## GOD\'S DELIVERANCE (125:1-3) 
 ###  The comparison (125:1): 

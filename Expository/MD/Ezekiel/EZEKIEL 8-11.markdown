@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 8-11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 8-11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%208-11.odp"%}
+
 # EZEKIEL 8-11 
 ## EZEKIEL SEES THE GOD OF GLORY DEFILED IN THE CITY OF JERUSALEM (8:1-10:3, 5-17; 11:1-22, 24-25). 
 ###  The man (8:1-4): 

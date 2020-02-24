@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 25
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 25.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2025.odp"%}
+
 # MATTHEW 25
 ## THE PARABLE OF THE TEN VIRGINS (25:1-13) 
 ###  The purpose (25:1): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 63
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 63.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2063.odp"%}
+
 # PSALM 63 
 ## DAVID\'S THIRST FOR GOD (63:1-2): 
 ## DAVID\'S THANKSGIVING TO GOD (63:3-5): 

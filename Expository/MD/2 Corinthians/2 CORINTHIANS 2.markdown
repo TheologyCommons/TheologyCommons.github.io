@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%202.odp"%}
+
 # 2 CORINTHIANS 2 
 ## THE TEARS (2:1-4): 
 ###  The purpose for this letter (2:1-3): 

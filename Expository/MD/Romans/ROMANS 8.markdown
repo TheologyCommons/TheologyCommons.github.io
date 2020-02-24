@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%208.odp"%}
+
 # ROMANS 8
 ## THE BELIEVER HAS A NEW POSITION (8:1-8). 
 ###  Our position in regard to the Son of God (8:1-3): 

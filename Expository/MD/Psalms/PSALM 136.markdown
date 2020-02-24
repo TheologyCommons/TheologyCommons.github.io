@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 136
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 136.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20136.odp"%}
+
 # PSALM 136 
 ## THE REASONS TO GIVE THANKS (136:1-26) 
 ###  Because of God\'s goodness (136:1, 26) 

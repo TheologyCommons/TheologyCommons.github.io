@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2011.odp"%}
+
 # REVELATION 11
 ## THE TEMPLE OF GOD (11:1-2) 
 ###  The command (11:1a): 

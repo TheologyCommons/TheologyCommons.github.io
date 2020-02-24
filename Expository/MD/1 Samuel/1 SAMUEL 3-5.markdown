@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 3-5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 3-5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%203-5.odp"%}
+
 # 1 SAMUEL 3-5 
 ## THE ANOINTED (3:1-21): Samuel has already been chosen by God to replace Eli as the spiritual leader of Israel. 
 ###  Samuel\'s message from the Lord (3:1-18): While Samuel is still a young boy, the Lord speaks to him about Eli. 

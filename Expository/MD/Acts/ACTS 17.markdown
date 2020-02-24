@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2017.odp"%}
+
 # ACTS 17 
 ## PAUL AND SILAS IN THESSALONICA (17:1-9) 
 ###  The faithfulness of the missionaries (17:1-3): 

@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 17-18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 17-18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2017-18.odp"%}
+
 # 2 CHRONICLES 17-18 
 ## THE GOOD DEEDS OF JEHOSHAPHAT, JUDAH\'S FOURTH RULER (17:1-19) 
 ###  His reinforcements (17:1-2): 

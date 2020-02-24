@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 23
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 23.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2023.odp"%}
+
 # PROVERBS 23
 ##  DINING WITH A KING (23:1-5): 
 ##  DINING WITH THE STINGY (23:6-8): 

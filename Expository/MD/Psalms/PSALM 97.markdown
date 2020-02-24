@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 97
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 97.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2097.odp"%}
+
 # PSALM 97 
 ## OVER CREATION (97:1-2, 4-5): 
 ###  The earth trembles and rejoices (97:1-2, 4). 

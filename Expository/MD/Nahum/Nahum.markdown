@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Nahum
-presentation: Expository/ODP/Nahum/Nahum.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Nahum/Nahum.odp"%}
+
 # Nahum
 ## NAHUM 1-3
 ### NAHUM\'S PREDICTION OF NINEVEH\'S FALL (1:1-7, 9-15; 2:12; 3:1, 4-10) 

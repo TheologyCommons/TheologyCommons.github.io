@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%2013.odp"%}
+
 # Hebrews 13 
 ## A Word About Love (13:1-6) 
 ###  Positive (13:1-4): 

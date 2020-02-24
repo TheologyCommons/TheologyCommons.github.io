@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%207.odp"%}
+
 # REVELATION 7
 ## THE SEALING OF GOD\'S SERVANTS ON EARTH (7:1-8) 
 ###  The sealers (7:1-3) 

@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 32
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 32.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2032.odp"%}
+
 # 2 CHRONICLES 32 
 ## THE HELPLESSNESS OF HEZEKIAH (32:1-22): 
 ###  The plan (32:1-2): 

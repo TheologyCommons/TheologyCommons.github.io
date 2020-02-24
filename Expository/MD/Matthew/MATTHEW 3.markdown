@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%203.odp"%}
+
 # MATTHEW 3 
 ## JOHN MINISTERS TO THE MULTITUDES (3:1-12) 
 ###  What John preaches (3:1-4) 

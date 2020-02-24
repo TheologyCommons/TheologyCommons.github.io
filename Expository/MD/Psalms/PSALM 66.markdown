@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 66
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 66.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2066.odp"%}
+
 # PSALM 66 
 ## THE DEEDS OF THE LORD (66:1-12): 
 ###  God\'s preeminence (66:1-2): 

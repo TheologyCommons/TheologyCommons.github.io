@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 50-51
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 50-51.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2050-51.odp"%}
+
 # JEREMIAH 50-51
 ## BABYLON\'S DESTRUCTION (50:1-3, 9-16, 21-27, 29-32, 35-46; 51:1-14, 20-33, 37-64) 
 ###  The source (50:1-3, 9, 41-46; 51:1-6, 9-12, 20-24, 45-46) 

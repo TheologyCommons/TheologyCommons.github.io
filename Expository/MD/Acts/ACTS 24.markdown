@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 24
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 24.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2024.odp"%}
+
 # ACTS 24 
 ## FELIX REVIEWS THE CHARGES AGAINST PAUL (24:1-23) 
 ###  The defamation by the prosecution (24:1-9): 

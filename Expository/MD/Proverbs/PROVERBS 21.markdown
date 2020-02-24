@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2021.odp"%}
+
 # PROVERBS 21
 ##  GOD WATCHES THE HEART (21:1-8): 
 ##  IT\'S SIMPLER BEING ALONE (21:9-19): 

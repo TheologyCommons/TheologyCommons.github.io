@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 1-2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 1-2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%201-2.odp"%}
+
 # 2 SAMUEL 1-2
 ## THE TEARS OF DAVID (1:1-27) 
 ###  The grief of David and Israel (1:17-21, 24-27): 

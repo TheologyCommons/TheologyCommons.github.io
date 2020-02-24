@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2022.odp"%}
+
 # ACTS 22 
 ## PAUL STANDS BEFORE AN ANGRY MOB (22:1-21) 
 ###  He speaks concerning his pre-conversion (22:1-5, 20). 

@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Isaiah Part 1
-presentation: Expository/ODP/Isaiah%20Part%201/Isaiah%20Part%201.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Isaiah%20Part%201/Isaiah%20Part%201.odp"%}
+
 # Isaiah Part 1
 ## ISAIAH 1-2 
 ### GOD\'S DEALINGS WITH ONE NATION (1:1-31): 

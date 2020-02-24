@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 3-6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 3-6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%203-6.odp"%}
+
 # JEREMIAH 3-6 
 ## DIVORCE (3:1-25) 
 ###  The illustration (3:1-11): 

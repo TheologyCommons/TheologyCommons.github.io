@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 122
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 122.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20122.odp"%}
+
 # PSALM 122 
 ## PRAISE FOR JERUSALEM (122:1-5) 
 ###  For its blessedness (122:1-3): 

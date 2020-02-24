@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 26
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 26.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2026.odp"%}
+
 # MATTHEW 26
 ## THE ACTION PRECEDING THE UPPER ROOM (26:1-16) 
 ###  The prediction (26:1-2): 

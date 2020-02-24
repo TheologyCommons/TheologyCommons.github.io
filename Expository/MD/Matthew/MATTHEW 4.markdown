@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%204.odp"%}
+
 # MATTHEW 4 
 ## JESUS AND THE DEVIL (4:1-11): 
 ###  The attacks (4:1-10) 

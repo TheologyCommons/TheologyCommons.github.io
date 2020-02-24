@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 48
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 48.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2048.odp"%}
+
 # PSALM 48 
 ## THE GOD OF JERUSALEM (48:1, 3-8, 10-11, 14) 
 ###  He is great (48:1): 

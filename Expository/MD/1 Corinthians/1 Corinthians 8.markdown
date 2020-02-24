@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%208.odp"%}
+
 # 1 Corinthians 8 
 ## THE CONFUSION (8:4a): 
 ## THE CLARIFICATION (8:4b-6, 8) 

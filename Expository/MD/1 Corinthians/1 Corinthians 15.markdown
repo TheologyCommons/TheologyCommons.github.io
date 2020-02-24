@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%2015.odp"%}
+
 # 1 Corinthians 15 
 ## THE PROMINENCE OF THE RESURRECTION (15:14) 
 ###  The resurrection of Christ is the focal point in reference to salvation (15:1-2). 

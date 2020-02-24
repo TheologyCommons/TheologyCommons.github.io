@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 31
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 31.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2031.odp"%}
+
 # PROVERBS 31
 ##  A GODLY MOTHER\'S COUNSEL (31:1-9) 
 ###  Whom she taught (31:1-2): 

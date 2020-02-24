@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 93
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 93.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2093.odp"%}
+
 # PSALM 93 
 ## THE LORD\'S ROBES (93:1) 
 ###  He is robed in majesty (93:1). 

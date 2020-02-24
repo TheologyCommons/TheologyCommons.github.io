@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 47, 49
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 47, 49.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2047,%2049.odp"%}
+
 # JEREMIAH 47, 49 
 ## PHILISTIA (47:1-7): 
 ###  The source (47:1, 6-7): 

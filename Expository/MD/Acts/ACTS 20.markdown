@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2020.odp"%}
+
 # ACTS 20 
 ## PAUL IN GREECE (20:1-3) 
 ###  The time (20:1-3a): 

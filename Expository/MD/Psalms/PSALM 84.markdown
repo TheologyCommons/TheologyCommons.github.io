@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 84
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 84.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2084.odp"%}
+
 # PSALM 84 
 ## WHAT THE TEMPLE OF THE LORD MEANS TO THE PSALMIST (84:1-10) 
 ###  The desire (84:1-3): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2014.odp"%}
+
 # PSALM 14 
 ## GOD AND THE FOOLISH (14:1-5) 
 ###  The arrogance of fools (14:1): 

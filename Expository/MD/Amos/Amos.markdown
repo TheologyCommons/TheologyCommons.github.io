@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Amos
-presentation: Expository/ODP/Amos/Amos.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Amos/Amos.odp"%}
+
 # Amos
 ## AMOS 1-2 
 ### THE REVELATION OF GOD\'S JUDGMENT (1:1-2): 

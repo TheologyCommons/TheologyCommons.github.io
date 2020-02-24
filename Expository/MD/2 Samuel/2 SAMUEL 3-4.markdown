@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 3-4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 3-4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%203-4.odp"%}
+
 # 2 SAMUEL 3-4
 ## THE BETRAYAL OF ABNER (3:1-39): 
 ###  The details (3:1-27) 

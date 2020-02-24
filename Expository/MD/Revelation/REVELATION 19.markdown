@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2019.odp"%}
+
 # REVELATION 19
 ## THE CELEBRATION IN HEAVEN (19:1-10) 
 ###  Praising the Lamb for his wrath on a corrupt whore (19:1-5) 

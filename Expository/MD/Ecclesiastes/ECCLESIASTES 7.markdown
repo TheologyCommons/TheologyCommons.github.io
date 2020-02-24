@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%207.odp"%}
+
 # ECCLESIASTES 7 
 ## THE \"BETTERS\" (7:1-12, 19) 
 ###  A good reputation is better than fine perfume (7:1a). 

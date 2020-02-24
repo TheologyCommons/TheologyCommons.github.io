@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%2016.odp"%}
+
 # MARK 16
 ## HE ARISES (16:1-18) 
 ###  The resurrection announcement (16:1-8) 

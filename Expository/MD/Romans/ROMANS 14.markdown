@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%2014.odp"%}
+
 # ROMANS 14
 ## NO BELIEVER SHOULD BE JUDGED BY ANOTHER BELIEVER DOWN HERE (14:1-8, 13-23). 
 ###  We are not to criticize others\' legalism (14:1-8). 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%203.odp"%}
+
 # PSALM 3 
 ## THE SCORN (3:1-2): 
 ## THE SUPPLICATION (3:4, 7): 

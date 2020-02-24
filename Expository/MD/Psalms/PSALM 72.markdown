@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 72
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 72.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2072.odp"%}
+
 # PSALM 72 
 ## THE CONCERN FOR THE KING (72:1). Here David asks God: 
 ###  To endow Solomon with divine justice. 

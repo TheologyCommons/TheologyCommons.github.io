@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%209.odp"%}
+
 # MATTHEW 9
 ## JESUS MINISTERS TO INDIVIDUALS (9:1-8, 18-38) 
 ###  A paralytic (9:1-8) 

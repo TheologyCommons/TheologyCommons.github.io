@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 20-21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 20-21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2020-21.odp"%}
+
 # 1 SAMUEL 20-21 
 ## DAVID AND THE PRINCE (20:1-42): David finds Jonathan and tells him of Saul\'s determination to kill him. Jonathan devises a plan to find out if this is true and warn David. 
 ###  The cause of David\'s fears (20:1-23) 

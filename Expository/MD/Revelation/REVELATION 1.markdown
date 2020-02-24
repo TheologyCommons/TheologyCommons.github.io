@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%201.odp"%}
+
 # REVELATION 1
 ## THE SERVANT OF GOD (1:1-10): 
 ###  The source of this message (1:1-2) 

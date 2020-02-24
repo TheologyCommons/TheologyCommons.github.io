@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2015.odp"%}
+
 # REVELATION 15
 ## WHAT JOHN SEES (15:1-2a, 5-8) 
 ###  He sees seven angels (15:1-2a, 6-7) 

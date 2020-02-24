@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 12-15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 12-15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2012-15.odp"%}
+
 # EZEKIEL 12-15
 ## HIS ILLUSTRATIONS TO THE NATION OF ISRAEL (12:1-28; 15:1-8) 
 ###  Through demonstrations (12:1-20) 

@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%204.odp"%}
+
 # ACTS 4 
 ## FRUSTRATION (4:1-3) 
 ###  The anger of the Jewish leaders (4:1-2): 

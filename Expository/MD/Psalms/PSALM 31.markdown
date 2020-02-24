@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 31
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 31.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2031.odp"%}
+
 # PSALM 31 
 ## THE DELIVERANCE SOUGHT BY DAVID (31:1-5): 
 ## THE DESPAIR SUFFERED BY DAVID (31:9-13) 

@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2016.odp"%}
+
 # MATTHEW 16
 ## JESUS AND HIS FOES (16:1-4) 
 ###  Their demand (16:1): 

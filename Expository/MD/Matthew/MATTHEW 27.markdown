@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 27
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 27.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2027.odp"%}
+
 # MATTHEW 27
 ## EVENTS PRECEDING THE CRUCIFIXION (27:1-31) 
 ###  The tragedy of Judas (27:3-10) 

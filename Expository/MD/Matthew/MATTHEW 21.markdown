@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2021.odp"%}
+
 # MATTHEW 21
 ## THE ACCLAMATION (21:1-11): 
 ###  The preparation (21:1-3) 

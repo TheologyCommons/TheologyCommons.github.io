@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 28
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 28.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2028.odp"%}
+
 # ACTS 28 
 ## PAUL AT MALTA (28:1-10) 
 ###  The apostle and the people on the island (28:1-6) 

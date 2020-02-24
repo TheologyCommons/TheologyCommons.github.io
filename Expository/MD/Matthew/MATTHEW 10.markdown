@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2010.odp"%}
+
 # MATTHEW 10
 ## TO FORMER DISCIPLES, LIVING IN THE TIME OF CHRIST (10:1-15): 
 ###  The individuals (10:2-4): 

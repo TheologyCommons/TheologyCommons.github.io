@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2015.odp"%}
+
 # PSALM 15 
 ## THE QUESTION (15:1): 
 ## THE QUALIFICATIONS (15:2-5): 

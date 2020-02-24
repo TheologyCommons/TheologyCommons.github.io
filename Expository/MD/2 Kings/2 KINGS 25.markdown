@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 25
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 25.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%2025.odp"%}
+
 # 2 KINGS 25 
 ## THE FALL OF JERUSALEM (25:1-21): 
 ###  The defeat (25:1-7): 

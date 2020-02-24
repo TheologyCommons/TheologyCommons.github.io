@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2015.odp"%}
+
 # LUKE 15
 ## PARABLE OF THE LOST SHEEP (15:1-7) 
 ###  The reason for this parable (15:1-3): 

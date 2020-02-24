@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%205.odp"%}
+
 # MARK 5
 ## JESUS RELEASES A DEMON-POSSESSED MAN (5:1-20) 
 ###  The despair (5:1-5): 

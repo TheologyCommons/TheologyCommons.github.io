@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2017.odp"%}
+
 # MATTHEW 17
 ## THE SPLENDOR OF THE SAVIOR (17:1-13) 
 ###  The confirmation on top of the mountain (17:1-8): 

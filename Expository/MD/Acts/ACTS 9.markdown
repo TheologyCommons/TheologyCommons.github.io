@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%209.odp"%}
+
 # ACTS 9 
 ## ACTIVITIES IN THE LIFE OF SAUL (9:1-31) 
 ###  Saul\'s vendetta against the saints of God (9:1-2) 

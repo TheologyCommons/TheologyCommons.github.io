@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%207.odp"%}
+
 # PROVERBS 7
 ##  RECEIVE MY WORDS AND LIVE! (7:1-5) 
 ###  \"Guard my teachings as your most precious possession\" (7:1-2). 

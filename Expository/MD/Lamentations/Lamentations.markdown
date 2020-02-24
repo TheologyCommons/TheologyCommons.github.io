@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Lamentations
-presentation: Expository/ODP/Lamentations/Lamentations.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Lamentations/Lamentations.odp"%}
+
 # Lamentations
 ## LAMENTATIONS 1
 ### HER SINS (1:8-9): 

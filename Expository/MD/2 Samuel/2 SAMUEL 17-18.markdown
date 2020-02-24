@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 17-18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 17-18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2017-18.odp"%}
+
 # 2 SAMUEL 17-18
 ## THE RUSE (17:1-14, 23): 
 ###  The correct advice of Ahithophel (17:1-4): 

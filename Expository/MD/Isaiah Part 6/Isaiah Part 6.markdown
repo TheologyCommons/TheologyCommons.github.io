@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Isaiah Part 6
-presentation: Expository/ODP/Isaiah%20Part%206/Isaiah%20Part%206.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Isaiah%20Part%206/Isaiah%20Part%206.odp"%}
+
 # Isaiah Part 6
 ## ISAIAH 40 
 ### AN INTRODUCTION TO THE GOD OF ISRAEL (40:1-26): 

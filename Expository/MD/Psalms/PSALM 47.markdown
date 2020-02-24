@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 47
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 47.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2047.odp"%}
+
 # PSALM 47 
 ## THE RULER OVER THIS KINGDOM (47:2-3, 7-8) 
 ###  What God reigns over (47:2, 7): 

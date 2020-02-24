@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Exodus 1
-presentation: Expository/ODP/Exodus%201/Exodus%201.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Exodus%201/Exodus%201.odp"%}
+
 # Exodus 1
 ## Exodus 1 
 ### THE REASONS FOR PERSECUTION (Ex. 1:1-10) 

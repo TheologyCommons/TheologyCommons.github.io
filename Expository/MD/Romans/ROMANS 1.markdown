@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%201.odp"%}
+
 # ROMANS 1
 ## THE COURT RECORDER (1:1-17): 
 ###  His credentials (1:1, 5): 

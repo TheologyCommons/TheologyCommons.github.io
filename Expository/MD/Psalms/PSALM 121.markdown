@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 121
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 121.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20121.odp"%}
+
 # PSALM 121 
 ## THE PSALMIST LOOKS UP TO THE LORD (121:1-2): 
 ## THE LORD LOOKS OUT FOR THE PSALMIST (121:3-8). 

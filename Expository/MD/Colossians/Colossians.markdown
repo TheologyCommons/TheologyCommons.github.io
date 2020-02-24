@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Colossians
-presentation: Expository/ODP/Colossians/Colossians.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Colossians/Colossians.odp"%}
+
 # Colossians
 ## COLOSSIANS 1 
 ### PAUL AND THE CHURCH AT COLOSSE (1:1-14, 24-29) 

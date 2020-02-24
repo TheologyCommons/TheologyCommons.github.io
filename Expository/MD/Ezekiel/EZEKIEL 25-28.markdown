@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 25-28
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 25-28.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2025-28.odp"%}
+
 # EZEKIEL 25-28 
 ## THE PROPHECY AGAINST AMMON (25:1-7) 
 ###  Their crimes (25:1-3, 6): 

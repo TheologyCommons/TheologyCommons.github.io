@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 124
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 124.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20124.odp"%}
+
 # PSALM 124 
 ## THE WORST OF ALL POSSIBLE WORLDS (124:1-5): 
 ###  The wicked would have swallowed Israel up (124:1-3). 

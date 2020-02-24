@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%2022.odp"%}
+
 # 1 Kings 22 
 ## THE END OF AHAB\'S REIGN (22:1-40) 
 ###  Ahab and Jehoshaphat (22:1-4): 

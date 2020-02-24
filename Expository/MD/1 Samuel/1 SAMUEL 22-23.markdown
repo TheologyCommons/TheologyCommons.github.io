@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 22-23
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 22-23.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2022-23.odp"%}
+
 # 1 SAMUEL 22-23 
 ## DAVID IN THE CAVE OF ADULLAM (22:1-5): David leaves Gath and hides in the cave of Adullam. 
 ###  David\'s men (22:1-2): While at the cave of Adullam, David assembles a personal army of 400 men. This band is formed from his relatives, those who are in trouble, in debt, or simply discontented. 

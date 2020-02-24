@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 92
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 92.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2092.odp"%}
+
 # PSALM 92 
 ## GOD AND THE REDEEMED (92:1-5, 8, 10-15) 
 ###  What they are to do (92:1, 8): 

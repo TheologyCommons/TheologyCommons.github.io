@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 130
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 130.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20130.odp"%}
+
 # PSALM 130 
 ## THE PSALMIST SPEAKS TO GOD (130:1-6). 
 ###  Save us in spite of our corruption (130:1-3). 

@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 36
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 36.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2036.odp"%}
+
 # 2 CHRONICLES 36 
 ## JEHOAHAZ, JUDAH\'S SEVENTEENTH RULER (36:1-4): Josiah\'s son Jehoahaz succeeds him as king of Judah. 
 ###  The duration (36:1-2): 

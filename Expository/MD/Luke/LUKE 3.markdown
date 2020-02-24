@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%203.odp"%}
+
 # LUKE 3
 ## THE LABOR OF JOHN THE BAPTIST (3:1-22) 
 ###  The message of John (3:1-14, 19-20) 

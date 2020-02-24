@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 28
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 28.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2028.odp"%}
+
 #  PROVERBS 28
 ##  A STABLE GOVERNMENT (28:1-2): 
 ##  A POURING RAIN (28:3): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 113
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 113.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20113.odp"%}
+
 # PSALM 113 
 ## THE MAJESTY OF THE LORD (113:1-6) 
 ###  His horizontal glory (113:1-3): 

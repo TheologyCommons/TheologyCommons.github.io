@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2020.odp"%}
+
 # JOHN 20
 ## THE MESSAGE OF MARY MAGDALENE (20:1-2) 
 ###  What she sees (20:1): 

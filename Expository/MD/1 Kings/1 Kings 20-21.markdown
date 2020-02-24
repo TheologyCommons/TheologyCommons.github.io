@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 20-21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 20-21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%2020-21.odp"%}
+
 # 1 Kings 20-21
 ## AHAB\'S CONQUEST (20:1-43): 
 ###  First occasion (20:1-21): 

@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%208.odp"%}
+
 # 1 Kings 8 
 ## THE SUMMONS (8:1-11) 
 ###  The Ark of the Covenant (8:1-9): 

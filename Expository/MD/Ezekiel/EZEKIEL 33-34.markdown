@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 33-34
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 33-34.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2033-34.odp"%}
+
 # EZEKIEL 33-34
 ## THE WATCHMAN AND THE WALL (33:1-33) 
 ###  God and the messengers to Israel (33:1-9): 

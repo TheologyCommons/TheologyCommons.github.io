@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 120
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 120.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20120.odp"%}
+
 # PSALM 120 
 ## SAVE ME FROM WICKED TONGUES (120:1-4). 
 ###  The psalmist\'s petition (120:1-2): 

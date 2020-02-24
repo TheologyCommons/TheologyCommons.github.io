@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%202.odp"%}
+
 # MARK 2
 ## THE FIRST TWO CRITICISMS (2:1-17): 
 ###  What the Pharisees think Jesus should not be doing. 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2022.odp"%}
+
 # PSALM 22 
 ## JESUS\' GRIEVOUS CRUCIFIXION (22:1-21): 
 ###  The testimony (22:9-11, 19-21): 

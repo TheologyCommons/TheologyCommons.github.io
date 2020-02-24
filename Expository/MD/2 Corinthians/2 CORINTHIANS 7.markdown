@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%207.odp"%}
+
 # 2 CORINTHIANS 7 
 ## THE RESOLUTION (7:1): 
 ## THE REQUEST (7:2-4) 

@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2010.odp"%}
+
 # ACTS 10 
 ## CORNELIUS, RELIGIOUS SINNER IN CAESAREA (10:1-8) 
 ###  His veneration for God (10:1-2): 

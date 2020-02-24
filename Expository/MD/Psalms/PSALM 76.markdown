@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 76
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 76.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2076.odp"%}
+
 # PSALM 76 
 ## GOD\'S EXCELLENCE (76:1-10, 12) 
 ###  His seat (76:1-2): 

@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%203.odp"%}
+
 # MARK 3
 ## THE COURAGE OF JESUS (3:1-6) 
 ###  The miracle (3:1-5): 

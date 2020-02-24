@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 43-45
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 43-45.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2043-45.odp"%}
+
 # JEREMIAH 43-45 
 ## JEREMIAH\'S MINISTRY TO THE SURVIVORS IN EGYPT (43:1-44:30) 
 ###  The people\'s sin (43:1-7): 

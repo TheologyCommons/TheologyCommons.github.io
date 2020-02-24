@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Joshua
-presentation: Expository/ODP/Joshua/Joshua.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Joshua/Joshua.odp"%}
+
 # Joshua
 ## JOSHUA 1-2
 ### THE MESSENGER (1:1-18) 

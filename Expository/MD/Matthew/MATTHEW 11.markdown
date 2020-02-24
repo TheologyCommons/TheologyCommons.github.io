@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2011.odp"%}
+
 # MATTHEW 11 
 ## THE REASSURING BY THE SAVIOR (11:1-19) 
 ###  John\'s request to Jesus (11:1-3): 

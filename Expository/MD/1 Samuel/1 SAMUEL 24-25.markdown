@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 24-25
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 24-25.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2024-25.odp"%}
+
 # 1 SAMUEL 24-25 
 ## DAVID\'S MERCY TOWARD SAUL (24:1-22): This is the first of two occasions when David could easily kill Saul but does not do so. 
 ###  The resumption (24:1-2): After routing the Philistines, Saul once again continues his relentless hunt for David. 

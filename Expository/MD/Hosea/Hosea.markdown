@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Hosea
-presentation: Expository/ODP/Hosea/Hosea.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hosea/Hosea.odp"%}
+
 # Hosea
 ## HOSEA 1-3 
 ### AN INNOCENT HUSBAND AND AN IMMORAL WIFE: Hosea and Gomer (1:1-9; 2:2-7; 3:1-3) 

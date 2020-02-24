@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%204.odp"%}
+
 # Hebrews 4 
 ## THE PROMISE OF GOD (4:1-11): 
 ###  The whereabouts (4:3b, 5-6, 8-10) 

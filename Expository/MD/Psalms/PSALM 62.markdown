@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 62
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 62.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2062.odp"%}
+
 # PSALM 62 
 ## THE TREACHERY (62:3-4) 
 ###  The praising (62:4): 

@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2010.odp"%}
+
 # JOHN 10
 ## THE MESSAGE BY JESUS (10:1-21) 
 ###  The metaphor (10:1-6): Jesus illustrates his mission on earth by describing two different ways to enter a sheepfold. 

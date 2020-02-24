@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2022.odp"%}
+
 # LUKE 22
 ## EVENTS TAKING PLACE AT PASSOVER (22:1-38) 
 ###  The final plot (22:1-6): 

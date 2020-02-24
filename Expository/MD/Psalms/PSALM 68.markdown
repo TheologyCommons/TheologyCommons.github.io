@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 68
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 68.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2068.odp"%}
+
 # PSALM 68 
 ## THE WORKS OF THE LORD (68:1-2, 4-17, 21-23): 
 ###  The Lord\'s punishment (68:1-2, 21-23) 

@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 1-2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 1-2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%201-2.odp"%}
+
 # JEREMIAH 1-2 
 ## JEREMIAH\'S CONSECRATION (1:1-19) 
 ###  His call (1:1-5) 

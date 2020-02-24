@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 24-25
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 24-25.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2024-25.odp"%}
+
 # 2 CHRONICLES 24-25 
 ## JOASH, JUDAH\'S EIGHTH RULER (24:1-27) 
 ###  The better years of Joash\'s reign (24:1-14): 

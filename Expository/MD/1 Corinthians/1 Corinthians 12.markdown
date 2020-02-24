@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%2012.odp"%}
+
 # 1 Corinthians 12 
 ## THE COMMAND TO KNOW THE GIFTS (12:1-3): 
 ## THE SOURCE OF THE GIFTS (12:4-6, 11): 

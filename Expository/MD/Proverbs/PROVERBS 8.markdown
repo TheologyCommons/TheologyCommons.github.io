@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%208.odp"%}
+
 # PROVERBS 8
 ##  WISDOM\'S ENTREATY (8:1-21, 32-36): 
 ###  Valid (8:1-9) 

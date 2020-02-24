@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 7-8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 7-8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%207-8.odp"%}
+
 # 2 SAMUEL 7-8
 ## THE COVENANT (7:1-29) 
 ###  The promise (7:1-17) 

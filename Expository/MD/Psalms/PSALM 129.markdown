@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 129
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 129.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20129.odp"%}
+
 # PSALM 129 
 ## THE PERSECUTION (129:1-4) 
 ###  Israel\'s enemies often attack (129:1-2). 

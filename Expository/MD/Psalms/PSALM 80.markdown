@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 80
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 80.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2080.odp"%}
+
 # PSALM 80 
 ## THE SHEEP AND THE SHEPHERD (80:1-7): 
 ###  Listen to us (80:1-2): 

@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 15-16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 15-16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2015-16.odp"%}
+
 # 2 SAMUEL 15-16
 ## THE PLOT EXECUTED (15:1-12): 
 ###  The politics of the plot (15:1-6): 

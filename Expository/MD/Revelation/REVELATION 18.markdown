@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2018.odp"%}
+
 # REVELATION 18
 ## THE REVELATION (18:1): 
 ## THE REASONS (18:2-3, 5, 7, 13b, 23c-24): 

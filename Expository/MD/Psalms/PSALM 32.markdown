@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 32
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 32.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2032.odp"%}
+
 # PSALM 32 
 ## THE CONFESSION (32:1-5): David recalls when he needed to confess his sins. 
 ###  The bitterness (32:3-4): 

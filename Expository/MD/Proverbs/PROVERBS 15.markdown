@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2015.odp"%}
+
 # PROVERBS 15
 ##  USE WORDS WISELY (15:1-7): 
 ##  REMEMBER WHAT THE LORD LOVES (15:8-9): 

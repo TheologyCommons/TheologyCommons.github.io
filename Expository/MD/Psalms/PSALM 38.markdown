@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 38
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 38.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2038.odp"%}
+
 # PSALM 38 
 ## THE PENALTY (38:1-14): 
 ###  He is chastened by God (38:1-10). 

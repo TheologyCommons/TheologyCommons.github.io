@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%209.odp"%}
+
 # ECCLESIASTES 9 
 ## THE INFINITE ONE (9:1): The affairs of all people are in the hands of God. 
 ## THE INSANITY (9:2-6, 11-12) 

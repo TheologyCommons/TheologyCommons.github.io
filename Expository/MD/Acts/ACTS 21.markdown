@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2021.odp"%}
+
 # ACTS 21 
 ## PAUL ENROUTE TO TYRE (21:1-3) 
 ## PAUL IN TYRE (21:4-6) 

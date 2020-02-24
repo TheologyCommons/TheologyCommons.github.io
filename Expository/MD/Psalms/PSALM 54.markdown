@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 54
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 54.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2054.odp"%}
+
 # PSALM 54 
 ## DAVID\'S TRAVAIL (54:1-3): 
 ## DAVID\'S TRUST (54:4-5) 

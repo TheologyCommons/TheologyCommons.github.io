@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 127
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 127.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20127.odp"%}
+
 # PSALM 127 
 ## THE FOUNDATION FOR A SUCCESSFUL FAMILY (127:1-2) 
 ###  What is necessary (127:1) 

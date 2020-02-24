@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 144
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 144.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20144.odp"%}
+
 # PSALM 144 
 ## DAVID\'S SOURCE OF VICTORY (144:1-8): 
 ###  God is powerful (144:1-2, 5-8). 

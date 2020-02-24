@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 3-4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 3-4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%203-4.odp"%}
+
 # 1 Kings 3-4 
 ## THE RISE OF SOLOMON (3:1): 
 ## THE REVELATION TO SOLOMON (3:2-28): 

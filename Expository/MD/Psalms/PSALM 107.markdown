@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 107
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 107.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20107.odp"%}
+
 # PSALM 107 
 ## WHAT THE REDEEMED ARE TO DO (107:1, 8, 15, 21-22, 31-32, 42-43) 
 ###  They are to give thanks to the Lord, praising him for his love (107:1, 8, 15, 21, 31-32, 42-43): 

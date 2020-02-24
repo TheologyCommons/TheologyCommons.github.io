@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 5-7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 5-7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%205-7.odp"%}
+
 # 1 Kings 5-7 
 ## A HOUSE FOR THE KING OF KINGS (5:1-18; 6:1-38; 7:13-51) 
 ###  The preparations (5:1-18) 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 86
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 86.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2086.odp"%}
+
 # PSALM 86 
 ## DAVID\'S TROUBLES: What He Seeks from God (86:1-4, 6, 11, 14, 16-17) 
 ###  His persecutors (86:14): 

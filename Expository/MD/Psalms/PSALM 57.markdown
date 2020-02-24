@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 57
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 57.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2057.odp"%}
+
 # PSALM 57 
 ## DAVID\'S PERSECUTORS (57:4, 6): 
 ## DAVID\'S PETITION (57:1-2): 

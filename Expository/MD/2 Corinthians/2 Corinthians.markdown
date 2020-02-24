@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 2 Corinthians
-presentation: Expository/ODP/2%20Corinthians/2%20Corinthians.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20Corinthians.odp"%}
+
 # 2 Corinthians
 ## 2 CORINTHIANS 1 
 ### CONSOLATION (1:1-7) 

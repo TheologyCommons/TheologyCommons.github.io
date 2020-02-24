@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%205.odp"%}
+
 # ECCLESIASTES 5 
 ## HUMAN WORDS (5:1-7) 
 ###  Be cautious in making a vow (5:1-3). 

@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 46, 48
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 46, 48.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2046,%2048.odp"%}
+
 # JEREMIAH 46, 48 
 ## EGYPT (46:1-28): 
 ###  The parties (46:1-2): 

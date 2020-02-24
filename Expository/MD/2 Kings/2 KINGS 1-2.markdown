@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 1-2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 1-2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%201-2.odp"%}
+
 # 2 KINGS 1-2 
 ## THE FINAL DAYS OF ELIJAH\'S MINISTRY (1:1-2:1 1) 
 ###  Elijah and Ahaziah (1:1-18) 

@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 24
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 24.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2024.odp"%}
+
 # LUKE 24
 ## FIRST APPEARANCE (24:1-12) 
 ###  The anointing for the tomb (24:1): 

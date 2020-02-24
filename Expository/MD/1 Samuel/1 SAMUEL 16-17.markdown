@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 16-17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 16-17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2016-17.odp"%}
+
 # 1 SAMUEL 16-17 
 ## DAVID THE CHOSEN (16:1-13) 
 ###  The rejection of Jesse\'s older sons (16:1-10) 

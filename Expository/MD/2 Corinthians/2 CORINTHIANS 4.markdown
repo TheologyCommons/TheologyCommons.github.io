@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%204.odp"%}
+
 # 2 CORINTHIANS 4 
 ## HOW TO HANDLE THE SCRIPTURES (4:1-7) 
 ###  As practiced by Paul the apostle (4:1-2, 5-7) 

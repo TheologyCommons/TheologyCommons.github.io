@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 23
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 23.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2023.odp"%}
+
 # LUKE 23
 ## EVENTS PRECEDING THE CRUCIFIXION (23:1-25) 
 ###  Jesus stands before Pilate for the first time (23:1-5). 

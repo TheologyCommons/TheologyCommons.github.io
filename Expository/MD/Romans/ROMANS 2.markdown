@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%202.odp"%}
+
 # ROMANS 2
 ## THE MORAL PERSON AND GOD (2:1-11) 
 ###  The plea rendered (2:1a): 

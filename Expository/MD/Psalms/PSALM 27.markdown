@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 27
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 27.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2027.odp"%}
+
 # PSALM 27 
 ##  DAVID\'S PRAISE (27:1-3): 
 ##  DAVID\'S PETITIONS (27:4-14): 

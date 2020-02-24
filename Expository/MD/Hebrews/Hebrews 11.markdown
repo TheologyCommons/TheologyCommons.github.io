@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%2011.odp"%}
+
 # Hebrews 11 
 ## The Explanation of Faith (11:1-3, 6) 
 ###  Its nature (11:1-2) 

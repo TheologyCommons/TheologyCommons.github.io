@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%202.odp"%}
+
 # 1 Kings 2 
 ## SOLOMON AND HIS FATHER (2:1-11): 
 ###  David\'s reminder (2:1-4): 

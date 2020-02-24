@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 42
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 42.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2042.odp"%}
+
 # PSALM 42 
 ## DAVID\'S DESIRE (42:1-2): 
 ## DAVID\'S DESPAIR (42:3, 9-10) 

@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 21-22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 21-22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2021-22.odp"%}
+
 # JEREMIAH 21-22 
 ## ZEDEKIAH, JUDAH\'S 20TH AND FINAL KING (21:1-14) 
 ###  Zedekiah\'s request (21:1-2): 

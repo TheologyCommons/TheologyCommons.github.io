@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%205.odp"%}
+
 # Hebrews 5
 ## THE REQUIREMENTS IN REGARD TO THE PRIESTS (5:1-10): 
 ###  Comparisons (5:1-4) 

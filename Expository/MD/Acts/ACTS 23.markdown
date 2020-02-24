@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 23
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 23.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2023.odp"%}
+
 # ACTS 23 
 ## THE COUNCIL (23:1-10): 
 ###  The assault (23:1-2): 

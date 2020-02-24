@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%205.odp"%}
+
 # 2 KINGS 5 
 ## THE CLEANSING OF LEPROSY (5:1-19) 
 ###  Naaman\'s disease (5:1): 

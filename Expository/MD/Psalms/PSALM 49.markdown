@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 49
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 49.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2049.odp"%}
+
 # PSALM 49 
 ## THE PSALMIST\'S SUMMONS (49:1-4) 
 ###  The crowd (49:1-2): 

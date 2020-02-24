@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 143
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 143.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20143.odp"%}
+
 # PSALM 143 
 ## SAVE ME! (143:1-7, 9, 11-12) 
 ###  The facts (143:3-4, 7) 

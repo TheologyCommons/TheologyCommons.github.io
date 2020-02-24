@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 139
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 139.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20139.odp"%}
+
 # PSALM 139 
 ## HIS OMNISCIENCE (139:1-6): 
 ###  What we do (139:1-3) 

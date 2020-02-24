@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 29-31
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 29-31.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2029-31.odp"%}
+
 # 2 CHRONICLES 29-31 
 ## REPAIRING THE TEMPLE (29:1-36): 
 ###  The Temple overseers (29:4-19) 

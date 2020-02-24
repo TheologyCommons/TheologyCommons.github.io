@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%2010.odp"%}
+
 # 2 CORINTHIANS 10 
 ## THE APOSTLE\'S DEFENSE (10:1-13) 
 ###  His meekness (10:1): 

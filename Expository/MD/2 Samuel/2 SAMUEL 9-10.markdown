@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 9-10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 9-10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%209-10.odp"%}
+
 # 2 SAMUEL 9-10
 ## DAVID\'S COMPASSION (9:1-13): 
 ###  The man (9:1-4): 

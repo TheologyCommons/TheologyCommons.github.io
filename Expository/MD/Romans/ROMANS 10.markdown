@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%2010.odp"%}
+
 # ROMANS 10
 ## THE PRAYER CONCERNING GOD\'S RIGHTEOUSNESS (10:1-3) 
 ###  The prayer (10:1): 

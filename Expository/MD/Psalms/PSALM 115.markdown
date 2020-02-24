@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 115
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 115.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20115.odp"%}
+
 # PSALM 115 
 ## THE TRUE GOD (115:1-3, 9-18) 
 ###  The psalmist\'s description (115:1-3) 

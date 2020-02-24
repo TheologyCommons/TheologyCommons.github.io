@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2014.odp"%}
+
 # ACTS 14 
 ## PAUL AND BARNABAS IN ICONIUM (14:1-7) 
 ###  The conversions (14:1): 

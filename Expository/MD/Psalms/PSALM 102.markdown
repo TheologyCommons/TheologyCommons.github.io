@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 102
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 102.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20102.odp"%}
+
 # PSALM 102 
 ## THE PSALMIST\'S TRAVAIL (102:1-11, 23-24) 
 ###  His plea (102:1-2, 24) 

@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%203.odp"%}
+
 # 2 CORINTHIANS 3 
 ## THE UNWRITTEN GRACE OF GOD (3:1-6) 
 ###  The Pharisees\' written letters of recommendation (3:1): 

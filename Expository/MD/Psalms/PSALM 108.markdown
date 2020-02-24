@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 108
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 108.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20108.odp"%}
+
 # PSALM 108 
 ## DAVID PRAISES THE LORD (108:1-5, 7-10) 
 ###  How? (108:1-2): 

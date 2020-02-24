@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 38-39
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 38-39.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2038-39.odp"%}
+
 # EZEKIEL 38-39
 ## THE ABHORRENCE OF GOG (38:1-3): 
 ## THE ALLIES OF GOG (38:4-7): 

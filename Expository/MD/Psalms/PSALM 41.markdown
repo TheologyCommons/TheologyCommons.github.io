@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 41
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 41.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2041.odp"%}
+
 # PSALM 41 
 ## GOD\'S FAVOR (41:1-3): 
 ###  Protection (41:1-2) 

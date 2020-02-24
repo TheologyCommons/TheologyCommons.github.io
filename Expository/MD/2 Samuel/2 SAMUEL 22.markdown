@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2022.odp"%}
+
 # 2 SAMUEL 22
 ## THANKSGIVING FOR BEING SAVED FROM HIS ENEMIES (22:1-32) 
 ###  God\'s protection (22:2-7) 

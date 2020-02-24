@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Philemon
-presentation: Expository/ODP/Philemon/Philemon.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Philemon/Philemon.odp"%}
+
 # Philemon
 ## PHILEMON 1
 ### THE APPRECIATION AND PRAISE FOR PHILEMON (1:1-7) 

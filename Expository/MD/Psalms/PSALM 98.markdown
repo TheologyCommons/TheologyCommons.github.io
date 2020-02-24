@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 98
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 98.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2098.odp"%}
+
 # PSALM 98 
 ## WHAT TO SING (98:1): 
 ## HOW TO SING (98:4-6): 

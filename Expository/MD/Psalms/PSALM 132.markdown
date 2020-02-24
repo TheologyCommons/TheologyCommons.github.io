@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 132
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 132.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20132.odp"%}
+
 # PSALM 132 
 ## DAVID DESIRES TO BUILD A HOUSE FOR GOD (132:1-10). 
 ###  The nature of this house (132:1-5): 

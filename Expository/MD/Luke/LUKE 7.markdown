@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%207.odp"%}
+
 # LUKE 7
 ## JESUS REWARDS AN OFFICER (7:1-10) 
 ###  What he requests of Jesus (7:1-5): 

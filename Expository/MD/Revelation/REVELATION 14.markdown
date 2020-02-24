@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2014.odp"%}
+
 #  REVELATION 14
 ## SONG OF THE REDEEMED OF GOD (14:1-5) 
 ###  What John sees (14:1) 

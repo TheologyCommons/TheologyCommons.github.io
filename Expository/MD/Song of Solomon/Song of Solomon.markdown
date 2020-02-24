@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Song of Solomon
-presentation: Expository/ODP/Song%20of%20Solomon/Song%20of%20Solomon.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Song%20of%20Solomon/Song%20of%20Solomon.odp"%}
+
 # Song of Solomon
 ## SONG OF SOLOMON 1-8
 ###  THE EVENTS PRECEDING THE WEDDING (1:1-3:5) 

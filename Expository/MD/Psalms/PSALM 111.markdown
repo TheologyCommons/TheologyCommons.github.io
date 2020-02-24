@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 111
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 111.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20111.odp"%}
+
 # PSALM 111 
 ## THE WORSHIP OF GOD (111:1 -2): 
 ## THE WONDERS OF GOD (111:2-9) 

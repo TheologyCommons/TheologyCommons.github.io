@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 13-14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 13-14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%2013-14.odp"%}
+
 # 2 KINGS 13-14 
 ## THE REIGNS OF FOUR MONARCHS (13:1-19, 22-25; 14:1-29) 
 ###  Jehoahaz, Israel\'s eleventh ruler (13:1-9) 

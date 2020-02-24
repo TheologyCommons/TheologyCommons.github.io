@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2018.odp"%}
+
 # PROVERBS 18
 ##  THE MOUTH OF A FOOL (18:1-9): 
 ##  THE SAFETY OF THE LORD (18:10-11): 

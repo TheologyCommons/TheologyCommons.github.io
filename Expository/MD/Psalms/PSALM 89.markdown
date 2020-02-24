@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 89
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 89.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2089.odp"%}
+
 # PSALM 89 
 ## THE PRAISE (89:1-37): 
 ###  God\'s person (89:1-2, 5-8, 14) 

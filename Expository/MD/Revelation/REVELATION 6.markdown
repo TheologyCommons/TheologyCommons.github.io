@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%206.odp"%}
+
 # REVELATION 6
 ## THE FIRST SEAL (6:1-2) 
 ###  The announcer (6:1): 

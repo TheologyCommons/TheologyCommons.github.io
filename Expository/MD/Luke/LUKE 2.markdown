@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%202.odp"%}
+
 # LUKE 2
 ## BETHLEHEM (2:1-21) 
 ###  Jehovah\'s Son is born (2:1-7). 

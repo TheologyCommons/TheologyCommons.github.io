@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%203.odp"%}
+
 # ROMANS 3
 ## FIRST QUESTION AND ANSWER (3:1-2) 
 ###  Question (3:1): 

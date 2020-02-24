@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 8-11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 8-11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%208-11.odp"%}
+
 # 1 SAMUEL 8-11 
 ## THE ASKING (8:1-22): Israel asks Samuel for a king. 
 ###  The logic (8:1-5): The people request a king because Samuel is old, his sons are corrupt, and the surrounding nations have kings. 

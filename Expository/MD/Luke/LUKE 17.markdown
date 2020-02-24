@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2017.odp"%}
+
 # LUKE 17
 ## THE MIRACLE (17:11-19) 
 ###  The request of the ten (17:11-14) 

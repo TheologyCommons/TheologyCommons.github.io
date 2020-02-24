@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 34-36
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 34-36.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2034-36.odp"%}
+
 # JEREMIAH 34-36 
 ## JUDAH\'S RULERS (34:1-22; 36:1-32) 
 ###  King Zedekiah (34:1-22) 

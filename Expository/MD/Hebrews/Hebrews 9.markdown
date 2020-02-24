@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%209.odp"%}
+
 # Hebrews 9 
 ## THE REVIEW OF EACH SANCTUARY (9:1-15) 
 ###  The earthly sanctuary (9:1-10) 

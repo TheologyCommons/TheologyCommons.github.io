@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2018.odp"%}
+
 # ACTS 18 
 ## THE ACTIVITIES OF PAUL (18:1-23) 
 ###  Paul in Corinth (18:1-17) 

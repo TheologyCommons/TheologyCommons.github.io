@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 101
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 101.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20101.odp"%}
+
 # PSALM 101 
 ## DAVID\'S WITNESS ABOUT GOD (101: 1) 
 ###  He sings of God\'s love (101:1). 

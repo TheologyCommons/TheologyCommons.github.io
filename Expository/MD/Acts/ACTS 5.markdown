@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%205.odp"%}
+
 # ACTS 5 
 ## THE PURITY IN THE EARLY CHURCH (5:1-11): 
 ###  The deception by Ananias and Sapphira (5:1-2): 

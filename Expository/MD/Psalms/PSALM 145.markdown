@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 145
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 145.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20145.odp"%}
+
 # PSALM 145 
 ## GOD\'S GREATNESS (145:1-6) 
 ###  Its depth (145:1-3): 

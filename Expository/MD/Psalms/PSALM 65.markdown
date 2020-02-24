@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 65
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 65.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2065.odp"%}
+
 # PSALM 65 
 ## DAVID THANKS GOD FOR HIS REDEMPTIVE WORKS (65:1-5) 
 ###  For answering prayer (65:1-2, 5): 

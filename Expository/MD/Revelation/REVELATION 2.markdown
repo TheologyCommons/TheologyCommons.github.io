@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%202.odp"%}
+
 # REVELATION 2
 ## THE CHURCH IN EPHESUS (2:1-7) 
 ###  The Counselor (2:1): 

@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2017.odp"%}
+
 # JOHN 17
 ## THE SAVIOR PRAYS FOR HIMSELF (17:1-5). 
 ###  The faithful Son (17:1, 5) 

@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%205.odp"%}
+
 # ROMANS 5
 ## A SUMMARY OF JUSTIFICATION (5:1-11): 
 ###  The believer has peace with God (5:1): 

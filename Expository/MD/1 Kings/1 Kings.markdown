@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 1 Kings
-presentation: Expository/ODP/1%20Kings/1%20Kings.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings.odp"%}
+
 # 1 Kings
 ## 1 Kings 1 
 ### THE COLDNESS OF DAVID (1:1-4): 

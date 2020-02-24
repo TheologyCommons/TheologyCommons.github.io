@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 5-6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 5-6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%205-6.odp"%}
+
 # 2 SAMUEL 5-6
 ## THE ANOINTED OF GOD (5:1-25) 
 ###  David\'s crowning (5:1-5): 

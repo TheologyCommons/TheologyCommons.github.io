@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 13-16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 13-16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2013-16.odp"%}
+
 # 2 CHRONICLES 13-16 
 ## ABIJAH, JUDAH\'S SECOND RULER (13:1-22) 
 ###  The fighter (13:1-20): 

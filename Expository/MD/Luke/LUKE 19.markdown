@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2019.odp"%}
+
 # LUKE 19
 ## THE PARDON BY JESUS (19:1-10): 
 ###  Zacchaeus the sinner (19:1-2): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 105
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 105.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20105.odp"%}
+
 # PSALM 105 
 ## GOD\'S MAJESTY (105:1-4): 
 ###  Sing his fame (105:1-3): 

@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%2014.odp"%}
+
 # MARK 14
 ## EVENTS PRECEDING GETHSEMANE (14:1-31) 
 ###  The plots (14:1-2, 10-11): 

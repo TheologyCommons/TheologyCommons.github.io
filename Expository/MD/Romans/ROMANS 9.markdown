@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%209.odp"%}
+
 # ROMANS 9
 ## THE NINE SPIRITUAL ADVANTAGES OF THIS SOVEREIGN SELECTION (9:1-5) 
 ###  Paul\'s grief over Israel (9:1-3): 

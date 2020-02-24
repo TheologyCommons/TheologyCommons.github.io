@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%205.odp"%}
+
 # PSALM 5 
 ## THE DELIVERANCE OF THE GODLY (5:1-3, 7-8, 10-12) 
 ###  The petition (5:1-3, 7-8, 10) 

@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%204.odp"%}
+
 # ROMANS 4
 ## THE ILLUSTRATION FROM THE LIFE OF ABRAHAM, ISRAEL\'S RACIAL FATHER (4:1-5, 9-25) 
 ###  Abraham and his salvation (4:1-5, 9-15) 

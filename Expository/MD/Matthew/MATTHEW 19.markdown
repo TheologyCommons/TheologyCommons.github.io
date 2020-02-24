@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2019.odp"%}
+
 # MATTHEW 19
 ## PART ONE (19:1-15) 
 ###  The confrontation\--Jesus and the Pharisees (19:1-9): 

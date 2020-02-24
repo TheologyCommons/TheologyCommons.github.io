@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%206.odp"%}
+
 # PSALM 6 
 ## DAVID\'S REQUEST (6:1-7): 
 ###  What he desires (6:1-2, 4-5): 

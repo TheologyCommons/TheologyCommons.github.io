@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 28-29
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 28-29.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2028-29.odp"%}
+
 # 1 SAMUEL 28-29 
 ## THE MEDIUM (28:1-25): Saul visits a spirit medium in the city of Endor. 
 ###  The reason (28:1-8) 

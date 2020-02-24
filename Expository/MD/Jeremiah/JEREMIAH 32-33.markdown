@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 32-33
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 32-33.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2032-33.odp"%}
+
 # JEREMIAH 32-33 
 ## JEREMIAH IS PERSECUTED (32:1-5). 
 ###  How (32:1-2): 

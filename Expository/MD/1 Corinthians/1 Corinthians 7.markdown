@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%207.odp"%}
+
 # 1 Corinthians 7
 ## MARRIAGE-SOME GENERAL INSTRUCTIONS (7:1-2, 7-9, 17-24, 29-35) 
 ###  The argument (7:1-2, 7-9, 32-35): 

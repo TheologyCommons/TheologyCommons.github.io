@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 28
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 28.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2028.odp"%}
+
 # PSALM 28 
 ## DAVID\'S DEPENDENCE (28:1-5): 
 ###  Protect me! (28:1-2): 

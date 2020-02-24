@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 25
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 25.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2025.odp"%}
+
 # PROVERBS 25
 ##  THE SOURCE OF PROVERBS (25:1): 
 ##  THE RIGHTS OF RULERS (25:2-7): 

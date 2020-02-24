@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 69
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 69.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2069.odp"%}
+
 # PSALM 69 
 ## DAVID\'S SUFFERING (69:1-12, 19-28): 
 ###  From his foes (69:1-4, 10-12, 19-21) 

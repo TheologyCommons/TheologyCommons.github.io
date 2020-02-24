@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2019.odp"%}
+
 # ACTS 19 
 ## THE DISCIPLES OF JOHN (19:1-7): 
 ###  What he asks them (19:1-2a): 

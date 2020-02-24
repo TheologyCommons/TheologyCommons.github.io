@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 6-7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 6-7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%206-7.odp"%}
+
 # 1 SAMUEL 6-7 
 ## THE RETURN OF THE ARK (6:1-21) 
 ###  The treasure (6:1-6): After seven months of trouble over the Ark, the desperate Philistines are advised by their own priests to send the Ark back to Israel with a guilt offering of five gold tumors and five gold rats! 

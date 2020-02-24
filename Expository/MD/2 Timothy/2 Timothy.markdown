@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 2 Timothy
-presentation: Expository/ODP/2%20Timothy/2%20Timothy.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Timothy/2%20Timothy.odp"%}
+
 # 2 Timothy
 ## 2 TIMOTHY 1 
 ### PAUL SPEAKS CONCERNING HIS SON (1:1-8, 13-14): 

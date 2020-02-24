@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%2016.odp"%}
+
 # ROMANS 16
 ## PAUL AND THE PEOPLE OF THE GOSPEL (16:1-16, 21-24) 
 ###  He is sending a special woman to the church in Rome (16:1-2). 

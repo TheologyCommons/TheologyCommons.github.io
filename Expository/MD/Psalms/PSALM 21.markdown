@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2021.odp"%}
+
 # PSALM 21 
 ## THE LORD GIVES DAVID THE DESIRES OF HIS HEART (21:2-12). 
 ###  Regarding David (21:2-6) 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 119
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 119.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20119.odp"%}
+
 # PSALM 119 
 ## THE NAMES FOR GOD\'S WORD: What It Is Called (119:1, 3-37, 39-40, 42-69, 71-116, 119-120, 123-131, 133-148, 150-164, 166-176) 
 ###  His law or laws (119:1, 7, 13, 18, 20, 29-30, 34, 39, 43-44, 51-53, 55, 61-62, 70, 72, 77, 85, 9192, 97, 102, 106, 108-109, 113, 126, 136, 142, 150, 153, 160, 163-165, 174-175): 

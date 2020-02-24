@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2012.odp"%}
+
 # MATTHEW 12
 ## JESUS AND THE PHARISEES (12:1-14, 22-45) 
 ###  The Sabbath conflict (12:1-14): 

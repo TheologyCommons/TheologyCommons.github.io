@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Ruth
-presentation: Expository/ODP/Ruth/Ruth.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ruth/Ruth.odp"%}
+
 # Ruth
 ## RUTH 1-4
 ### RUTH RENOUNCING (1:1-22) 

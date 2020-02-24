@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 78
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 78.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2078.odp"%}
+
 # PSALM 78 
 ## THE COMMAND (78:1-7): 
 ###  I will teach (78:1-3): 

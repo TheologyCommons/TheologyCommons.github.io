@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 22-24
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 22-24.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2022-24.odp"%}
+
 # EZEKIEL 22-24
 ## THE SINS OF ISRAEL (22:1-31) 
 ###  The perversions (22:1-12, 23-29) 

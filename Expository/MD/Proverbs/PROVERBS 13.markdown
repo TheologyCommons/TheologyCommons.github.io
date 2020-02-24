@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2013.odp"%}
+
 # PROVERBS 13
 ##  CORRECTION (13:1): 
 ##  CONTROL (13:2-4): 

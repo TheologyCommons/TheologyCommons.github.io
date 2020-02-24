@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%205.odp"%}
+
 # JOHN 5
 ## THE MIRACLE BESIDE THE POOL OF BETHSEDA (5:1-15) 
 ###  The crippled man and the Messiah-their first meeting (5:1-9) 

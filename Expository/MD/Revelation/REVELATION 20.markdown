@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2020.odp"%}
+
 # REVELATION 20
 ## THE GREAT CHAIN (20:1-3) 
 ###  The prisoner (20:1-2): 

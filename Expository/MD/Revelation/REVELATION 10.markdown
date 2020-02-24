@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2010.odp"%}
+
 # REVELATION 10
 ## THE MESSAGES GIVEN BY THE ANGEL OF GOD (10:1-7) 
 ###  The appearance of this angel (10:1) 

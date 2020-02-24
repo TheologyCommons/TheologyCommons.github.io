@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%208.odp"%}
+
 # REVELATION 8
 ## EVENTS PRECEDING THE TRUMPET BLOWING (8:1-5) 
 ###  The pause (8:1): 

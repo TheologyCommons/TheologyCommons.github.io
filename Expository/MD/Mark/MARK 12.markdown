@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%2012.odp"%}
+
 # MARK 12
 ## ILLUSTRATION (12:1-12): 
 ###  The workman (12:1) 

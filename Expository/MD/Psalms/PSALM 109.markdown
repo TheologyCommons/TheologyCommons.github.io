@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 109
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 109.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20109.odp"%}
+
 # PSALM 109 
 ## THE PERSECUTION (109:1-5, 22-25) 
 ###  The ruthless attacks (109:1-5) 

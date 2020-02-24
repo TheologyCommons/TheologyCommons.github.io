@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%2013.odp"%}
+
 # 2 CORINTHIANS 13 
 ## PAUL\'S COMING VISIT (13:1-10) 
 ###  The number (13:1a): 

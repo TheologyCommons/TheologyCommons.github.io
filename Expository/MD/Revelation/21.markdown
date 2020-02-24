@@ -2,7 +2,8 @@
 layout: outline
 title: 21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/21.odp"%}
+
 # 21 
 ## JOHN\'S VISION OF THE NEW JERUSALEM (21:1-8) 
 ###  What he sees (21:1-2) 

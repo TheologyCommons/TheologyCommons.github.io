@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 58
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 58.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2058.odp"%}
+
 # PSALM 58 
 ## GOD AND THE GODLESS (58:1-9): 
 ###  Their perversions (58:1-5) 

@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 1-2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 1-2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%201-2.odp"%}
+
 # MATTHEW 1-2 
 ## THE RECORD OF THE MESSIAH (1:1-17): 
 ###  The preview (1:1): 

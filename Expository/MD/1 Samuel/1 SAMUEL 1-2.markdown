@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 1-2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 1-2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%201-2.odp"%}
+
 # 1 SAMUEL 1-2 
 ## THE FAMILY OF HANNAH (1:1-2:11, 18-21, 26) 
 ###  Her spouse (1:1-2): Hannah is married to Elkanah. 

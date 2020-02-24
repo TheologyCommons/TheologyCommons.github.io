@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%2015.odp"%}
+
 # ROMANS 15
 ## THE PROMPTING OF PAUL (15:1-4, 8-12) 
 ###  His exhortation (15:1-2): 

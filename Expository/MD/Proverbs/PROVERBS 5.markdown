@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%205.odp"%}
+
 # PROVERBS 5 
 ##  THE WOMAN IN THE STREET: DEPART FROM HER (5:1-14, 21-23). 
 ###  The pleasure she offers (5:3) 

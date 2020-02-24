@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 118
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 118.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20118.odp"%}
+
 # PSALM 118 
 ## THE PSALMIST\'S PROMPTING (118:1-4, 24) 
 ###  To the people (118:1-2, 4, 24): 

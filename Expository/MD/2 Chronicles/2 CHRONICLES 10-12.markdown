@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 10-12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 10-12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2010-12.odp"%}
+
 # 2 CHRONICLES 10-12 
 ## THE DIVISION OF THE KINGDOM (10:1-19) 
 ###  The request to Rehoboam, Judah\'s first ruler (10:1-11): 

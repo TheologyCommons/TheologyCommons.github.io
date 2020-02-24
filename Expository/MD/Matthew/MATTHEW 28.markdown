@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 28
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 28.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2028.odp"%}
+
 # MATTHEW 28
 ## JESUS\' APPEARANCE TO TWO WOMEN (28:1-15) 
 ###  The action preceding this appearance (28:1-8) 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 90
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 90.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2090.odp"%}
+
 # PSALM 90 
 ## THE ETERNALITY OF THE CREATOR (90:1-4) 
 ###  His identity (90:1-3): 

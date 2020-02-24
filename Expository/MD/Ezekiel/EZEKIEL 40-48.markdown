@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 40-48
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 40-48.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2040-48.odp"%}
+
 # EZEKIEL 40-48 
 ## THE TEMPLE (40:1-43:27) 
 ###  The man (40:1-4): 

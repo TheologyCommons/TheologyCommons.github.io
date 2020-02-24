@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 128
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 128.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20128.odp"%}
+
 # PSALM 128 
 ## THE REQUIREMENTS (128:1): 
 ## THE REWARDS (128:2-6) 

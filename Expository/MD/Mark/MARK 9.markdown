@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%209.odp"%}
+
 # MARK 9
 ## TRANSFIGURATION (9:1-13) 
 ###  Ascending the Mount of Transfiguration (9:1-2a) 

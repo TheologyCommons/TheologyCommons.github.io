@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2015.odp"%}
+
 # MATTHEW 15
 ## THE MEETINGS (15:1-20) 
 ###  Jesus\' meeting with the Pharisees (15:1-9) 

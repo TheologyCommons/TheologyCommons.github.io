@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2016.odp"%}
+
 # JOHN 16
 ## ROUND ONE (16:1-15) 
 ###  Jesus speaks of the conflict that will come to them from the world (16:1-4). 

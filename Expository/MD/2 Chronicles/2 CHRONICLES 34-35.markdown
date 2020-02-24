@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 34-35
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 34-35.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2034-35.odp"%}
+
 # 2 CHRONICLES 34-35 
 ## JOSIAH, JUDAH\'S SIXTEENTH RULER (34:1-35:27): 
 ###  The campaign launched (34:1-7): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 30
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 30.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2030.odp"%}
+
 # PSALM 30 
 ## DAVID\'S TRIUMPHS (30:1-3): 
 ###  Danger (30:1): 

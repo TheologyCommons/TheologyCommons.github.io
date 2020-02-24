@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 140
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 140.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20140.odp"%}
+
 # PSALM 140 
 ## DAVID\'S PETITION REGARDING THE GODLESS (140:1-11) 
 ###  What they do (140:1-5) 

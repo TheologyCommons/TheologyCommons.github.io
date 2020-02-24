@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%205.odp"%}
+
 # MATTHEW 5 
 ## THE KINGDOM AND BELIEVERS (5:1-16) 
 ###  Kingdom attributes (5:1-12) 

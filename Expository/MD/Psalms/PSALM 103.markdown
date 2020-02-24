@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 103
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 103.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20103.odp"%}
+
 # PSALM 103 
 ## DAVID\'S SUMMONS TO THE ADOPTED ON EARTH: \"Praise the LORD!\" (103:1-19): 
 ###  Who and what God is (103:1-13, 17-19) 

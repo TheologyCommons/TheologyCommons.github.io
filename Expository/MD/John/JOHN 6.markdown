@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%206.odp"%}
+
 # JOHN 6
 ## TWO MIRACLES (6:1-24) 
 ###  First miracle (6:1-15): 

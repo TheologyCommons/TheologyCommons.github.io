@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%201.odp"%}
+
 # Hebrews 1 
 ## Christ, The Selected One (1:1-3): 
 ###  Revelation (1:1-2a) 

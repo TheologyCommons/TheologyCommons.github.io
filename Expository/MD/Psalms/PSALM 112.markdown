@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 112
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 112.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20112.odp"%}
+
 # PSALM 112 
 ## THE GODLY PERSON\'S CONSECRATION (112:1, 4-5, 9) 
 ###  He fears God and loves his word (112:1): 

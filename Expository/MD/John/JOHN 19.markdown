@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2019.odp"%}
+
 # JOHN 19
 ## EVENTS PRECEDING THE CRUCIFIXION (19:1-15) 
 ###  Jesus\' final torment before the cross (19:1-3) 

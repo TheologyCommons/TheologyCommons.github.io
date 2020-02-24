@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%207.odp"%}
+
 # Hebrews 7 
 ## A HISTORICAL PERSPECTIVE (7:1-3) 
 ###  The person of Melchizedek (7:1a, 2b-3) 

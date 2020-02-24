@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%201.odp"%}
+
 # MARK 1
 ## EVENTS PRIOR TO JESUS\' MINISTRY (1:1-13) 
 ###  The witnesses of the Old Testament (1:1-3): 

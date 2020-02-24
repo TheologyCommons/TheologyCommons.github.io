@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%206.odp"%}
+
 # 1 Corinthians 6 
 ## LAWSUITS (6:1-11) 
 ###  The facts (6:1, 6): 

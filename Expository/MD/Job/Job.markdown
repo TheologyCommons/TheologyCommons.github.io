@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Job
-presentation: Expository/ODP/Job/Job.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Job/Job.odp"%}
+
 # Job
 ## JOB 1-2
 ### JOB\'S PRESTIGE (1:1-5) 

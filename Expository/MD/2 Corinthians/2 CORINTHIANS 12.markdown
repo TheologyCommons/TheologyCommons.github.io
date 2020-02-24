@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%2012.odp"%}
+
 # 2 CORINTHIANS 12 
 ## PAUL AND THE THIRD HEAVEN (12:1-10) 
 ###  The vision of the apostle (12:1-6) 

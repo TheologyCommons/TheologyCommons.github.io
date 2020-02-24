@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 81
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 81.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2081.odp"%}
+
 # PSALM 81 
 ## THE PSALMIST EXHORTS ISRAEL TO REJOICE (81:1-4) 
 ###  How? (81:1-2): 

@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2012.odp"%}
+
 # ACTS 12 
 ## PETER\'S DELIVERANCE (12:1-19a) 
 ###  The death of James (12:1-2): 

@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 25
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 25.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2025.odp"%}
+
 # ACTS 25 
 ## FESTUS AND PAUL (25:1-12) 
 ###  The governor and the plotters (25:1-5) 

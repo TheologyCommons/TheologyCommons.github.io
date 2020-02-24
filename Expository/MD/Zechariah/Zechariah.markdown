@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Zechariah
-presentation: Expository/ODP/Zechariah/Zechariah.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Zechariah/Zechariah.odp"%}
+
 # Zechariah
 ## ZECHARIAH 1-6
 ### JUDAH\'S REPENTANCE (1:1-6) 

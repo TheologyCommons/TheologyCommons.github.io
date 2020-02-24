@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 83
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 83.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2083.odp"%}
+
 # PSALM 83 
 ## THE PLOT AGAINST ISRAEL (83:1-8) 
 ###  The iniquity (83:1-4) 

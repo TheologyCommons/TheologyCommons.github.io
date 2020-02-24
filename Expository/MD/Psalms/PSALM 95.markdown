@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 95
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 95.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2095.odp"%}
+
 # PSALM 95 
 ## THE POSITIVE: The Believer Should Always Praise God (95:1-7). 
 ###  For his creative works (95:4-5): 

@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2018.odp"%}
+
 # JOHN 18
 ## EVENTS IN GETHSEMANE (18:1-11) 
 ###  Jesus\' confrontation with his foes (18:1-7) 

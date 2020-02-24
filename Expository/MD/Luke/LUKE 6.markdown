@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%206.odp"%}
+
 # LUKE 6
 ## THE PREEMINENCE OF JESUS (6:1-11): 
 ###  In regard to harvesting on the Sabbath (6:1-5) 

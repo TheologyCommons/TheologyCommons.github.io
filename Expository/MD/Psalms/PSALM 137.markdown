@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 137
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 137.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20137.odp"%}
+
 # PSALM 137 
 ## JUDAH AND ITS CAPTORS (137:1-6) 
 ###  Their despair (137:1-2): 

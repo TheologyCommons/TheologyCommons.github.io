@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%209.odp"%}
+
 # LUKE 9
 ## EVENTS PRECEDING THE TRANSFIGURATION (9:1-27) 
 ###  Jesus, the source of authority (9:1-9) 

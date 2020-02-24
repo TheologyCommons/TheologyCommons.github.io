@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%204.odp"%}
+
 # ECCLESIASTES 4 
 ## THE WRETCHED THINGS IN THIS LIFE (4:1-8, 13-16) 
 ###  The people Solomon finds (4:1, 4-8) 

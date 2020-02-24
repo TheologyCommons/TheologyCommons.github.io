@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 23
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 23.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2023.odp"%}
+
 # MATTHEW 23
 ## THE ANGER OF JESUS (23:1-36): 
 ###  Jesus publicly condemns the Pharisees (23:1-12). 

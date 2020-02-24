@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 11-12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 11-12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2011-12.odp"%}
+
 # 2 SAMUEL 11-12
 ## DAVID THE SINNER (11:1-27) 
 ###  His sin of adultery (11:1-5): Two factors lead to this tragic sin: 

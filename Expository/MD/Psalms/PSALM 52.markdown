@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 52
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 52.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2052.odp"%}
+
 # PSALM 52 
 ## THE BOAST OF THE GODLESS (52:1-5) 
 ###  Their perversion (52:1-4) 

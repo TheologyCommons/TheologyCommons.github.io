@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Deuteronomy
-presentation: Expository/ODP/Deuteronomy/Deuteronomy.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Deuteronomy/Deuteronomy.odp"%}
+
 # Deuteronomy
 ## DEUTERONOMY 1-4 
 ### AN OVERVIEW OF ISRAEL AT MOUNT SINAI (Deut. 11 -18) 

@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%204.odp"%}
+
 # REVELATION 4
 ## THE SUMMONS TO HEAVEN (4:1) 
 ###  The vision (4:1a): 

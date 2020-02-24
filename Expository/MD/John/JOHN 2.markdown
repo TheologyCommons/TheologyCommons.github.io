@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%202.odp"%}
+
 # JOHN 2
 ## JESUS\' FIRST MIRACLE (2:1-11) 
 ###  The occasion (2:1-3) 

@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%2012.odp"%}
+
 # Hebrews 12 
 ## The Contest (12:1-4) 
 ###  The race (12:1): 

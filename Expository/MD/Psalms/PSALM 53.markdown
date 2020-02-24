@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 53
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 53.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2053.odp"%}
+
 # PSALM 53 
 ## GOD AND HIS FOOLISH FOES (53:1-5): 
 ###  Their atheism (53:1): 

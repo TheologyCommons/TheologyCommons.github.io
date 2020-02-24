@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 73
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 73.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2073.odp"%}
+
 # PSALM 73 
 ## ASAPH AND THE EVIL ONES (73:1-20) 
 ###  The consternation (73:1-20): 

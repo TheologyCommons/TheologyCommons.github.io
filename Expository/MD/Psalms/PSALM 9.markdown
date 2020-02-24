@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%209.odp"%}
+
 # PSALM 9 
 ## GOD\'S RIGHTEOUS REDEMPTION OF THE ELECT (9:1-3, 9-14, 18) 
 ###  What the Lord had done (9:1-3, 9-10, 18) 

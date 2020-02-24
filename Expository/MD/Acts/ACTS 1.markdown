@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%201.odp"%}
+
 # ACTS 1 
 ## THE ACTION ON THE MOUNT OF OLIVES (1:1-11) 
 ###  The assurance from Jesus (1:1-8) 

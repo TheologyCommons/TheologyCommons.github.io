@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%206.odp"%}
+
 # MATTHEW 6
 ## JESUS TALKS ABOUT GIVING (6:1-4) 
 ###  The rules (6:1-3) 

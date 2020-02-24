@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%209.odp"%}
+
 # REVELATION 9
 ## THE FIFTH TRUMPET, RESULTING IN THE FIRST DEMONIC INVASION (9:1-12) 
 ###  The home of these demons (9:1-2): Their abode is in the smokefilled bottomless pit. 

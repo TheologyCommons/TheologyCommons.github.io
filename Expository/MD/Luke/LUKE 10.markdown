@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2010.odp"%}
+
 # LUKE 10
 ## SEVENTY-TWO SPOKESMEN (10:1-24): 
 ###  The job given to the 72 by the Savior (10:1-16) 

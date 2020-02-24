@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 29
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 29.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2029.odp"%}
+
 # JEREMIAH 29 
 ## FIRST LETTER (29:1-23) 
 ###  The person and place (29:1a): 

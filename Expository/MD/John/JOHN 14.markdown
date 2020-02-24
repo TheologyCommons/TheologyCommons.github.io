@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2014.odp"%}
+
 # JOHN 14
 ## THE CONSOLATION HE GIVES TO HIS DISCIPLES (14:1-4) 
 ###  \"I am going to prepare a place for you\" (14:1-2). 

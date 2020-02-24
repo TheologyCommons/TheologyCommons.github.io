@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2015.odp"%}
+
 # JOHN 15
 ## FRUIT BEARING (15:1-8) 
 ###  The symbols (15:1, 5a-5b) 

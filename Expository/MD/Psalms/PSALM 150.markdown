@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 150
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 150.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20150.odp"%}
+
 # PSALM 150 
 ## WHERE (150:1): 
 ## WHAT (150:2): 

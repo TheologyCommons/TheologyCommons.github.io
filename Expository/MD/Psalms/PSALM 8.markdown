@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%208.odp"%}
+
 # PSALM 8 
 ## THE LORD\'S GREATNESS (8:1-3, 9): 
 ###  As seen in creation (8:1, 3, 9): 

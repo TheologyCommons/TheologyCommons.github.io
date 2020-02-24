@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%204.odp"%}
+
 # JOHN 4
 ## JESUS REDEEMS A SAMARITAN WOMAN (4:1-42). 
 ###  The Savior at Sychar (4:1-6): 

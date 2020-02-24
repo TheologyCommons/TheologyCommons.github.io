@@ -2,7 +2,8 @@
 layout: outline
 title: ROMANS 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Romans\ROMANS 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Romans/ROMANS%2011.odp"%}
+
 # ROMANS 11
 ## THIS FUTURE RESTORATION IS ASSURED BECAUSE ISRAEL\'S PRESENT REJECTION IS NOT TOTAL (11:1-10, 11b-24). 
 ###  The factions of Israel (11:1-10): 

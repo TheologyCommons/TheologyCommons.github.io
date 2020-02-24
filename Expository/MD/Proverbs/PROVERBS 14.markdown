@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2014.odp"%}
+
 # PROVERBS 14
 ##  THE WISE AND THE FOOLISH (14:1-9): 
 ##  TRUE JOY (14:10-13): Laughter conceals a heavy heart. 

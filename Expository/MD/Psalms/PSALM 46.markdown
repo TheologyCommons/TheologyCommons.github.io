@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 46
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 46.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2046.odp"%}
+
 # PSALM 46 
 ## THE PROTECTION FROM GOD (46:1-3): 
 ###  Its availability (46:1): 

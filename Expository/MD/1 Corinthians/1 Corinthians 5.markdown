@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%205.odp"%}
+
 # 1 Corinthians 5 
 ## THE NEED FOR DISCIPLINE (5:1): 
 ###  The notoriousness of their sin (5:1a): 

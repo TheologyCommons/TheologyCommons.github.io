@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%203.odp"%}
+
 # REVELATION 3
 ## THE CHURCH IN SARDIS (3:1-6) 
 ###  The counselor (3:1a): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 87
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 87.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2087.odp"%}
+
 # PSALM 87 
 ## THE GREAT HONOR BESTOWED UPON JERUSALEM (87:1-3) 
 ###  Because of its glorious present (87:1-2) 

@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 15-16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 15-16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%2015-16.odp"%}
+
 # 2 KINGS 15-16 
 ## THE GODLY KINGS (15:1-7, 32-38) 
 ###  Uzziah, Judah\'s tenth ruler (15:1-7) 

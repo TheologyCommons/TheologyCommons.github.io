@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2014.odp"%}
+
 # LUKE 14
 ## DINING ROOMS (14:1-24) 
 ###  Scene 1\-\--the power of Jesus is seen (14:1-6). 

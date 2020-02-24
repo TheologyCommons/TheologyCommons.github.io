@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%209.odp"%}
+
 # 1 Corinthians 9 
 ## CHRISTIAN LIBERTY-PAUL\'S APPROACH (9:1-23): 
 ###  The basis of his rights (9:1-3) 

@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%208.odp"%}
+
 # MATTHEW 8
 ## THE MIRACLES OF JESUS (8:1-17, 23-34) 
 ###  Curing the sick (8:1-17, 28-34) 

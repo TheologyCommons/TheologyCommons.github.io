@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 99
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 99.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2099.odp"%}
+
 # PSALM 99 
 ## THE PSALMIST CALLS PEOPLE TO EXALT THE LORD (99:1-5, 9): 
 ###  Because of his splendor (99:1): 

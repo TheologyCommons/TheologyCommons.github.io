@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 30
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 30.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2030.odp"%}
+
 # PROVERBS 30
 ##  THE WRITER (30:1-3, 7-9) 
 ###  His identity (30:1): 

@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%2014.odp"%}
+
 # 1 Corinthians 14 
 ## THE GIFT OF PROPHECY (14:1, 3, 4b-12, 18-19, 29-33) 
 ###  The admonition to seek this gift (14:1): 

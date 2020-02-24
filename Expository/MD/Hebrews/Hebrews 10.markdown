@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%2010.odp"%}
+
 # Hebrews 10 
 ## THE COMPARISON (10:1-18): 
 ###  The inferiority of earthly lambs (10:1-4, 11) 

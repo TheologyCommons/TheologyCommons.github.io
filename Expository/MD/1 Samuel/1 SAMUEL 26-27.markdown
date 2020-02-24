@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 26-27
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 26-27.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2026-27.odp"%}
+
 # 1 SAMUEL 26-27 
 ## DAVID FOREGOES (26:1-25): David chooses not to take advantage of a second opportunity to kill Saul. 
 ###  The constraint (26:1-11): David and Abishai sneak into Saul\'s camp late one night. 

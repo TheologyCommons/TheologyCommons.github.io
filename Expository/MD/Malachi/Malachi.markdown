@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Malachi
-presentation: Expository/ODP/Malachi/Malachi.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Malachi/Malachi.odp"%}
+
 # Malachi
 ## MALACHI 1-4
 ### ISRAEL\'S PRIVILEGE (1:1-5) 

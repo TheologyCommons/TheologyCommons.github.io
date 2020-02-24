@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%204.odp"%}
+
 # LUKE 4
 ## THE MEASURING OF JESUS (4:1-13): 
 ###  The terrain (4:1): 

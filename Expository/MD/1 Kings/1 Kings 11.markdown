@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%2011.odp"%}
+
 # 1 Kings 11 
 ## SOLOMON\'S DISOBEDIENCE (11:1-40) 
 ###  The causes (11:1-8) 

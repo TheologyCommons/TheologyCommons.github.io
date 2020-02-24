@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%202.odp"%}
+
 # ECCLESIASTES 2 
 ## THE KING\'S DELUSIONS (2:1-10): Solomon travels down many roads in his search for peace and purpose. This includes: 
 ###  Pleasure (2:1-2) 

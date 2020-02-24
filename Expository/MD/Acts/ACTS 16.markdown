@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2016.odp"%}
+
 # ACTS 16 
 ## THE CIRCUMCISION AT LYSTRA (16:1-5) 
 ###  The recipient (16:3b): 

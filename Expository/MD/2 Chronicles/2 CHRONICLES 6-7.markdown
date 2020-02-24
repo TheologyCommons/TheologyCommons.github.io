@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 6-7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 6-7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%206-7.odp"%}
+
 # 2 CHRONICLES 6-7 
 ## THE DEDICATION BY SOLOMON (6:1-7:10): 
 ###  Solomon\'s sermon (6:1-11): 

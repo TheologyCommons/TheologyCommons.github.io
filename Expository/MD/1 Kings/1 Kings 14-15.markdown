@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 14-15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 14-15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%2014-15.odp"%}
+
 # 1 Kings 14-15 
 ## JEROBOAM, ISRAEL\'S FIRST RULER (14:1-20): 
 ###  His deception (14:1-18) 

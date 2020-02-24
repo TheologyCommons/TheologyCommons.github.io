@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%204.odp"%}
+
 # 1 Corinthians 4 
 ## THE CONTRASTS BETWEEN FAITHFUL AND FAITHLESS STEWARDS (4:1-13) 
 ###  The faithless steward (4:6-8, 10b, 10d-10e) 

@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 26
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 26.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2026.odp"%}
+
 # PROVERBS 26
 ##  FACTS ON THE FOOL (26:1-12): 
 ##  SEVEN TIMES SMARTER (26:13-16): 

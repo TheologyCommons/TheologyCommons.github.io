@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 26
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 26.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2026.odp"%}
+
 # ACTS 26 
 ## THE PERMISSION (26:1): 
 ## THE PERSONAL TESTIMONY (26:2-23) 

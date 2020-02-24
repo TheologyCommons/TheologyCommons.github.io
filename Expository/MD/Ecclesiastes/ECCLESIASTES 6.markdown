@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%206.odp"%}
+
 # ECCLESIASTES 6 
 ## FORTUNE DOES NOT BRING JOY (6:1-2). 
 ###  Most wealthy people are unhappy with their possessions in life (6:2a). 

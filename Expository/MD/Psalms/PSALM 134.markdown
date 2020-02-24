@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 134
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 134.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20134.odp"%}
+
 # PSALM 134 
 ## RENDER A BLESSING TO THE LORD (134:1-2). 
 ###  Who? (134:1): 

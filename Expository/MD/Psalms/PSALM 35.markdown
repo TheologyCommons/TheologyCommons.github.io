@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 35
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 35.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2035.odp"%}
+
 # PSALM 35 
 ## DAVID\'S PERSECUTION (35:11-16): 
 ###  They falsely accuse him (35:11, 15). 

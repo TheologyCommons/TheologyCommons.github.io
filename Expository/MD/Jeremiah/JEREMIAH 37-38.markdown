@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 37-38
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 37-38.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2037-38.odp"%}
+
 # JEREMIAH 37-38 
 ## THE CHARGE-DESERTION (37:1-21) 
 ###  Zedekiah\'s request (37:1-10) 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 24
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 24.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2024.odp"%}
+
 # PSALM 24 
 ## THE GLORIOUS KINGDOM (24:1-6) 
 ###  What it embraces (24:1-2): 

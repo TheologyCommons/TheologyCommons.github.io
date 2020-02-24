@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%2012.odp"%}
+
 # ECCLESIASTES 12 
 ## THE COMMAND (12:1-8) 
 ###  What his readers are to do (12:1-2): 

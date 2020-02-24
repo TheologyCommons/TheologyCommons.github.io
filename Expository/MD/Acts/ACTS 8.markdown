@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%208.odp"%}
+
 # ACTS 8 
 ## SAUL THE PERSECUTOR (8:1-3) 
 ###  He approves the death of Stephen (8:1). 

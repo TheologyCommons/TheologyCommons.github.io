@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%201.odp"%}
+
 # PROVERBS 1
 ##  THE REASONS FOR THE PROVERBS (1:1-7) 
 ###  To grasp wisdom and discipline (1:1-2): 

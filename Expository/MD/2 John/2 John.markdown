@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 2 John
-presentation: Expository/ODP/2%20John/2%20John.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20John/2%20John.odp"%}
+
 # 2 John
 ## 2 JOHN 1 
 ### HE COMMENDS THE CHOSEN LADY (1:1-4). 

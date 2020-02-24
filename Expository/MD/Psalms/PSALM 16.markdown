@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2016.odp"%}
+
 # PSALM 16 
 ## DAVID\'S SECURITY (16:1-7) 
 ###  David\'s confidence (16:1-2, 5-7): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 45
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 45.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2045.odp"%}
+
 # PSALM 45 
 ## THE KING (45:1-8): 
 ###  His charm (45:2): 

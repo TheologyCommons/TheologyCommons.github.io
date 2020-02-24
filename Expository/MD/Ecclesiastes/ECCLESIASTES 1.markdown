@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%201.odp"%}
+
 # ECCLESIASTES 1 
 ## THE MAN (1:1, 12): The author introduces himself as King David\'s son-presumably Solomon-and notes that he once ruled over Israel. 
 ## THE MISSION (1:13, 16) 

@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2020.odp"%}
+
 # LUKE 20
 ## THE PARABLE BY JESUS (20:9-19) 
 ###  The purpose for this parable (20:17-19): 

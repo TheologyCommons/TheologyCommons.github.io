@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 1 Timothy
-presentation: Expository/ODP/1%20Timothy/1%20Timothy.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Timothy/1%20Timothy.odp"%}
+
 # 1 Timothy
 ## 1 TIMOTHY 1 
 ### THE WELL-BELOVED OF PAUL (1:1-2): 

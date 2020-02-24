@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 4
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 4.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%204.odp"%}
+
 # PSALM 4 
 ## THE SUPPLICATION (4:1, 6): 
 ## THE SHAME (4:2): 

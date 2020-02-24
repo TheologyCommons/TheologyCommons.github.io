@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2012.odp"%}
+
 # JOHN 12
 ## JESUS IS ANOINTED IN BETHANY (12:1-11). 
 ###  The purpose (12:1-2a): 

@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%205.odp"%}
+
 # REVELATION 5
 ## THE OBSERVATION (5:1): 
 ## THE PROCLAMATION (5:2): 

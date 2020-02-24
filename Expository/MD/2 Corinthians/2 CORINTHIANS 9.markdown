@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%209.odp"%}
+
 # 2 CORINTHIANS 9 
 ## THE MONETARY GIFT BY THE CORINTHIANS (9:1-14) 
 ###  The review (9:1-5) 

@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Ezra
-presentation: Expository/ODP/Ezra/Ezra.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezra/Ezra.odp"%}
+
 # Ezra
 ## EZRA 1-3 
 ### THE DECREE (1:1-4) 

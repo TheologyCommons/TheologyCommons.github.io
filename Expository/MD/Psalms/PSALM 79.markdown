@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 79
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 79.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2079.odp"%}
+
 # PSALM 79 
 ## THE PAIN OF ISRAEL (79:1-4): 
 ###  The land, the city of Jerusalem, and the Temple have been overrun by pagans (79:1). 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 60
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 60.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2060.odp"%}
+
 # PSALM 60 
 ## THE REJECTION (60:1-5, 10-12): 
 ###  The pain (60:1-3): 

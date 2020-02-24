@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 27
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 27.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2027.odp"%}
+
 # ACTS 27 
 ## PHASE ONE: FROM CAESAREA TO SIDON (27:1-3) 
 ###  The command given to Julius the centurion (27:1-2): 

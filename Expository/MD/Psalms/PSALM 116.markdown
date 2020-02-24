@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 116
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 116.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20116.odp"%}
+
 # PSALM 116 
 ## WHAT GOD DOES FOR THE PSALMIST (116:1-1 1) 
 ###  He hears his prayers (116:1-2, 4-7). 

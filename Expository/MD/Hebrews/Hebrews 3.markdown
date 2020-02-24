@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%203.odp"%}
+
 # Hebrews 3
 ## THE WORTHINESS OF THE SAVIOR (3:1-6): 
 ###  The comparison (3:2) 

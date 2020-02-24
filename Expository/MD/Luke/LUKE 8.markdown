@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%208.odp"%}
+
 # LUKE 8
 ## EVENTS PRECEDING THE CALMING OF THE STORM (8:1-21) 
 ###  Illustrations related by Jesus (8:4-18): 

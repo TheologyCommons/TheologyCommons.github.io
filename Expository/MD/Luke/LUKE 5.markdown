@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 5
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 5.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%205.odp"%}
+
 # LUKE 5
 ## THE INVITATIONS (5:1-11, 27-32) 
 ###  Jesus calls Peter, James, and John to become his disciples (5:1-11). 

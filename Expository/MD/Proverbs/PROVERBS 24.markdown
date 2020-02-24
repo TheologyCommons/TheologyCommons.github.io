@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 24
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 24.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2024.odp"%}
+
 # PROVERBS 24
 ##  THE HOUSE WISDOM BUILT (24:1-9): 
 ##  RESCUE THE PERISHING (24:10-12): 

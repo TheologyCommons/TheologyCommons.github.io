@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2012.odp"%}
+
 # PROVERBS 12
 ##  CHARACTER COUNTS (12:1-14): 
 ##  THE WISE WEIGH THEIR WORDS (12:15-16): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2011.odp"%}
+
 # PSALM 11 
 ## THE SECURITY OF THE BELIEVER (11:1 -3): 
 ## THE SOVEREIGNTY OF THE LORD (11:4-7): 

@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 20-21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 20-21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2020-21.odp"%}
+
 #  EZEKIEL 20-21
 ## ISRAEL\'S CONDEMNATION (20:1-32, 45-49; 21:1-32) 
 ###  The indictments (20:1-32, 45-49; 21:1-5, 24-32) 

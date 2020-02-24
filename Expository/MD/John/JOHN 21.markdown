@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 21
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 21.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2021.odp"%}
+
 # JOHN 21
 ## THE FISHERMEN ON THE SEA (21:1-3) 
 ###  The disciples (21:1-2): 

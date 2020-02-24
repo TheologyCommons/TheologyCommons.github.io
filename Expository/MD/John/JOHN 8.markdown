@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%208.odp"%}
+
 # JOHN 8
 ## A SINNER JESUS FORGIVES-THE SAVIOR AND THE PROSTITUTE (8:1-11) 
 ###  The connivers (8:1-4) 

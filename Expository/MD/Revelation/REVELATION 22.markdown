@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2022.odp"%}
+
 # REVELATION 22
 ## FACTS ABOUT THE CITY (22:1-5a)
 ###  Its river of life (22:1-2a) 

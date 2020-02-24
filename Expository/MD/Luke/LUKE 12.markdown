@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2012.odp"%}
+
 # LUKE 12
 ## HYPOCRISY (12:1-3) 
 ###  The example of hypocrisy (12:1): 

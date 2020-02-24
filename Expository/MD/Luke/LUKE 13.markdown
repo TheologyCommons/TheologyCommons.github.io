@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2013.odp"%}
+
 # LUKE 13
 ## THE ILLUSTRATIONS (13:1-9, 18-30): 
 ###  First two illustrations (13:1-5) 

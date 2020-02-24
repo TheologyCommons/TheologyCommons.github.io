@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 29
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 29.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2029.odp"%}
+
 # PROVERBS 29
 ##  ACCEPTING CRITICISM (29:1): 
 ##  WISDOM AND WICKEDNESS (29:2-8): 

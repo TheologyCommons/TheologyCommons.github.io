@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 16-17
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 16-17.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%2016-17.odp"%}
+
 # 1 Kings 16-17 
 ## FIVE GODLESS POTENTATES (16:1-34) 
 ###  Baasha, Israel\'s third ruler (16:1-7) 

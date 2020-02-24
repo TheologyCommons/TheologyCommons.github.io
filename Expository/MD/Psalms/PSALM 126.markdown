@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 126
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 126.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20126.odp"%}
+
 # PSALM 126 
 ## THE REALITY (126:1): 
 ## THE REACTION (126:2-3) 

@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Isaiah Part 8
-presentation: Expository/ODP/Isaiah%20Part%208/Isaiah%20Part%208.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Isaiah%20Part%208/Isaiah%20Part%208.odp"%}
+
 # Isaiah Part 8
 ## ISAIAH 58-59 
 ### ISRAEL\'S SINS (58:1-14; 59:3-8) 

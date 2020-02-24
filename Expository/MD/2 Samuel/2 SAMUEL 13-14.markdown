@@ -2,7 +2,8 @@
 layout: outline
 title: 2 SAMUEL 13-14
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Samuel\2 SAMUEL 13-14.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Samuel/2%20SAMUEL%2013-14.odp"%}
+
 # 2 SAMUEL 13-14
 ## THE RAPE (13:1-19) 
 ###  Amnon desires Tamar (13:1-10): 

@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 1 Samuel
-presentation: Expository/ODP/1%20Samuel/1%20Samuel.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20Samuel.odp"%}
+
 # 1 Samuel
 ## 1 SAMUEL 1-2 
 ### THE FAMILY OF HANNAH (1:1-2:11, 18-21, 26) 

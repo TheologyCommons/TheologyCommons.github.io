@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%2015.odp"%}
+
 # ACTS 15 
 ## THE DEBATE IN JERUSALEM (15:1-34): 
 ###  The reason for this council meeting (15:1, 6): 

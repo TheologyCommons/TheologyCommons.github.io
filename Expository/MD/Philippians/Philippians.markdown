@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Philippians
-presentation: Expository/ODP/Philippians/Philippians.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Philippians/Philippians.odp"%}
+
 # Philippians
 ## PHILIPPIANS 1
 ### PAUL\'S SUPPLICATION FOR THE PHILIPPIAN BELIEVERS (1:1-11) 

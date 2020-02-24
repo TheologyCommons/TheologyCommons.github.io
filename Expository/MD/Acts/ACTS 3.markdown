@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%203.odp"%}
+
 # ACTS 3 
 ## THE MIRACLE (3:1-11) 
 ###  Two consecrated men (3:1): 

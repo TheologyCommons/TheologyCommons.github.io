@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 110
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 110.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20110.odp"%}
+
 # PSALM 110 
 ## HE IS GOD (110:1). 
 ###  The persons (110:1): 

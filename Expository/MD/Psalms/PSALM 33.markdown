@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 33
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 33.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2033.odp"%}
+
 # PSALM 33 
 ## THE METHODS OF PRAISE (33:1-3) 
 ###  With joy from our hearts (33:1) 

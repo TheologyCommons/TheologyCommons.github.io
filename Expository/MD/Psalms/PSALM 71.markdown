@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 71
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 71.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2071.odp"%}
+
 # PSALM 71 
 ## THE PSALMIST\'S TROUBLE (71:10-11): 
 ## THE PSALMIST\'S TRIUMPH (71:1-7, 9, 12-14, 17-18): 

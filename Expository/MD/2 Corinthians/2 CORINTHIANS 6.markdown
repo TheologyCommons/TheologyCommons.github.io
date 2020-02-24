@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%206.odp"%}
+
 # 2 CORINTHIANS 6 
 ## THE PLEA (6:1-2): 
 ###  Paul\'s pleading (6:1): 

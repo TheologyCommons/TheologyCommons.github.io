@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2020.odp"%}
+
 # PROVERBS 20
 ##  DO NOT BE LED ASTRAY BY DRINK (20:1). 
 ##  DO NOT ROUSE THE KING\'S ANGER (20:2-8): 

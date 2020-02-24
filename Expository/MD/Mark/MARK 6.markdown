@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%206.odp"%}
+
 # MARK 6
 ## THE MALICE OF THE NAZARENES (6:1-6a): 
 ###  Their hostility (6:1-3): 

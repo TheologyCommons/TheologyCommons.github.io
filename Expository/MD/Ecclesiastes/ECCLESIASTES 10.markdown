@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%2010.odp"%}
+
 # ECCLESIASTES 10 
 ## THE INDIVIDUALS DESCRIBED BY SOLOMON (10:1-7, 12-18, 20) 
 ###  The wise (10:2a, 12a) 

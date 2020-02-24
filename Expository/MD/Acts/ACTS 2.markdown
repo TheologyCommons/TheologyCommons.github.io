@@ -2,7 +2,8 @@
 layout: outline
 title: ACTS 2
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Acts\ACTS 2.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Acts/ACTS%202.odp"%}
+
 # ACTS 2 
 ## THE CLOVEN TONGUES (2:1-4) 
 ###  The sounds at Pentecost (2:1-2): 

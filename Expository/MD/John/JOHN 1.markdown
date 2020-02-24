@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%201.odp"%}
+
 # JOHN 1
 ## FACTS CONCERNING THE PREINCARNATE CHRIST (1:1-5) 
 ###  His relationship to the Father (1:1-2) 

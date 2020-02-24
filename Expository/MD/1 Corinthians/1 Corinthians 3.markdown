@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%203.odp"%}
+
 # 1 Corinthians 3 
 ## THE \"BABY\" CHRISTIANS IN THE CORINTHIAN CHURCH (3:1-10): 
 ###  Paul\'s criticism (3:1-2) 

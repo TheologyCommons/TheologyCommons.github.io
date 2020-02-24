@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 39, 52
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 39, 52.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2039,%2052.odp"%}
+
 # JEREMIAH 39, 52 
 ## EVENTS PRECEDING (39:15-18, 52:1-7) 
 ###  Jeremiah\'s reassurance (39:15-18): 

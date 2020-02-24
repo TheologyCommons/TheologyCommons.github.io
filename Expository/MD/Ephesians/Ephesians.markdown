@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Ephesians
-presentation: Expository/ODP/Ephesians/Ephesians.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ephesians/Ephesians.odp"%}
+
 # Ephesians
 ## EPHESIANS 1 
 ### THE CREATION OF THIS BODY (1:1-14): 

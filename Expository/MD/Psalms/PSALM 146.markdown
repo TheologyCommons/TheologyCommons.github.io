@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 146
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 146.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20146.odp"%}
+
 # PSALM 146 
 ## THE BASIS FOR TRUSTING GOD (146:1-4, 10) 
 ###  God\'s reliability (146:1-2, 10): 

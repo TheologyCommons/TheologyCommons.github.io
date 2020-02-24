@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 55
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 55.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2055.odp"%}
+
 # PSALM 55 
 ## DAVID\'S TRIALS (55:2-15, 20-21) 
 ###  Besieged by his foes (55:2-8, 10-11) 

@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2020.odp"%}
+
 # MATTHEW 20
 ## THE PARABLE (20:1-16) 
 ###  The analogy (20:1a): 

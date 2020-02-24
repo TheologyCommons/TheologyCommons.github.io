@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 77
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 77.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2077.odp"%}
+
 # PSALM 77 
 ## ASAPH\'S SORROW (77:1-10) 
 ###  Present grief (77:1-4, 7-10) 

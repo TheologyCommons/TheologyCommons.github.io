@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 18
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 18.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2018.odp"%}
+
 # MATTHEW 18
 ## HOW TO DETERMINE GREATNESS (18:1-6, 10-14) 
 ###  The illustration of a little child (18:1-5) 

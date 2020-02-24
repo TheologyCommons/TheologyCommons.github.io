@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 36
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 36.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2036.odp"%}
+
 # PSALM 36 
 ## THE CRUELTY OF THE GODLESS (36:1-4) 
 ###  They have no fear of God (36:1). 

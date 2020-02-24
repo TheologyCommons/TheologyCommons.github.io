@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 13
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 13.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%2013.odp"%}
+
 # MARK 13
 ## THE TWO PROPHECIES OF JESUS (13:1-27) 
 ###  In regard to the Temple (13:1-2): 

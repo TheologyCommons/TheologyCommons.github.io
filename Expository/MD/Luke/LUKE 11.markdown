@@ -2,7 +2,8 @@
 layout: outline
 title: LUKE 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Luke\LUKE 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Luke/LUKE%2011.odp"%}
+
 # LUKE 11
 ## JESUS INSTRUCTS HIS FRIENDS (11:1-13, 27-28) 
 ###  The disciples, on the subject of prayer (11:1-13) 

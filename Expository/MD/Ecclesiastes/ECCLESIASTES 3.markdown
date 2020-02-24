@@ -2,7 +2,8 @@
 layout: outline
 title: ECCLESIASTES 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ecclesiastes\ECCLESIASTES 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ecclesiastes/ECCLESIASTES%203.odp"%}
+
 # ECCLESIASTES 3 
 ## EARTHLY EVENTS FROM A HUMAN PERSPECTIVE (3:1-14, 22) 
 ###  The categories (3:1-8): There is a proper time for all events. 

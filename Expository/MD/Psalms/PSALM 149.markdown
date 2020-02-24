@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 149
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 149.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20149.odp"%}
+
 # PSALM 149 
 ## WHAT ISRAEL SHOULD DO (149:2): 
 ## HOW ISRAEL SHOULD DO IT (149:1, 3, 6) 

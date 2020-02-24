@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%2011.odp"%}
+
 # JOHN 11
 ## THE WONDROUS WORK BY JESUS (11:1-44): 
 ###  The sickness of Lazarus (11:1-3) 

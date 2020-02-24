@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%207.odp"%}
+
 # PSALM 7 
 ## DAVID\'S SUPPLICATION (7:1-9) 
 ###  Save me! (7:1-2, 6-9): 

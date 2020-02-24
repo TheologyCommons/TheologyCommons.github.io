@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%207.odp"%}
+
 # JOHN 7
 ## THE DISBELIEF JESUS ENCOUNTERS IN NAZARETH (7:1-10) 
 ###  The ridicule (7:1-5): 

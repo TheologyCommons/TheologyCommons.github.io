@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 7-10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 7-10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%207-10.odp"%}
+
 # JEREMIAH 7-10 
 ## JEREMIAH\'S CONDEMNATION OF THE PEOPLE (7:1-8:17) 
 ###  They deceive themselves (7:1-15). 

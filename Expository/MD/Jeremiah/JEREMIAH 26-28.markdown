@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 26-28
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 26-28.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2026-28.odp"%}
+
 # JEREMIAH 26-28 
 ## JEREMIAH\'S SUFFERINGS (26:1-24) 
 ###  His twofold warnings (26:1-6) 

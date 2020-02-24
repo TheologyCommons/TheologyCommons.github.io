@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 18-19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 18-19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2018-19.odp"%}
+
 # 1 SAMUEL 18-19 
 ## THE FURY OF SAUL (18:1-19:17): Saul becomes jealous of David and tries to kill him. 
 ###  David\'s rise (18:1-7): After David\'s victory over Goliath, David gains great favor in the eyes of others. 

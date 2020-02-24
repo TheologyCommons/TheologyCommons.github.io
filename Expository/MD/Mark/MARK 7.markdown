@@ -2,7 +2,8 @@
 layout: outline
 title: MARK 7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Mark\MARK 7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Mark/MARK%207.odp"%}
+
 # MARK 7
 ## THE HOLINESS MESSAGE PREACHED BY JESUS (7:1-23) 
 ###  The reason for the message (7:1-5): 

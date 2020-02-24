@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%208.odp"%}
+
 # 2 KINGS 8 
 ## THE REMINISCING ABOUT ELISHA (8:1-6): 
 ###  The relocation (8:1-2): 

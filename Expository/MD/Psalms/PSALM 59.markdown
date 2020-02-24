@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 59
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 59.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2059.odp"%}
+
 # PSALM 59 
 ## DAVID\'S WICKED FOES (59:1-7, 11-15): 
 ###  Protect me! (59:1-2): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2020.odp"%}
+
 # PSALM 20 
 ## THE REQUESTS (20:1-5, 9): 
 ###  May the Lord respond to your cry (20:1, 9). 

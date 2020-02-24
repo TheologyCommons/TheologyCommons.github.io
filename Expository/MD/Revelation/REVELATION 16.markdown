@@ -2,7 +2,8 @@
 layout: outline
 title: REVELATION 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Revelation\REVELATION 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Revelation/REVELATION%2016.odp"%}
+
 # REVELATION 16
 ## FIRST JUDGMENT BOWL (16:1-2) 
 ###  The place (16:1-2a): 

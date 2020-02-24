@@ -2,7 +2,8 @@
 layout: outline
 title: Hebrews 8
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Hebrews\Hebrews 8.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Hebrews/Hebrews%208.odp"%}
+
 # Hebrews 8
 ## ITS SANCTUARY IS SUPERIOR (8:1-2). 
 ###  The place is better (8:1): 

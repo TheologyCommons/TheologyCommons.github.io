@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 14-15
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 14-15.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2014-15.odp"%}
+
 # 1 SAMUEL 14-15 
 ## SAUL\'S FOES (14:1-23): Saul camps outside Gibeah, but Jonathan and his armor bearer attack the enemy by themselves and initiate a great victory! 
 ###  The strategy (14:1-8): Jonathan and his armor bearer attempt to single-handedly defeat an entire Philistine garrison! 

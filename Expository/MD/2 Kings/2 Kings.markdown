@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: 2 Kings
-presentation: Expository/ODP/2%20Kings/2%20Kings.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20Kings.odp"%}
+
 # 2 Kings
 ## 2 KINGS 1-2 
 ### THE FINAL DAYS OF ELIJAH\'S MINISTRY (1:1-2:1 1) 

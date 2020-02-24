@@ -1,9 +1,9 @@
 ---
 layout: outline
 title: 1 Corinthians
-presentation: Expository/ODP/1%20Corinthians/1%20Corinthians.odp
 ---
-{% include presentionFrame.html src="Expository/ODP/1%20Corinthians/1%20Corinthians.odp" %}
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians.odp"%}
+
 # 1 Corinthians
 ## 1 Corinthians 1 
 ### THE PERSONAL GREETINGS FROM PAUL (1:1-3) 

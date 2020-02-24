@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 147
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 147.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20147.odp"%}
+
 # PSALM 147 
 ## WHAT ISRAEL SHOULD DO (147:1, 7, 12) 
 ###  Praise God with your mouth (147:1, 12). 

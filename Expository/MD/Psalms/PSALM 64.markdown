@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 64
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 64.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2064.odp"%}
+
 # PSALM 64 
 ## PROTECT ME! (64:1-6): 
 ###  The slander (64:1-4): 

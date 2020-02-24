@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 9
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 9.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%209.odp"%}
+
 # PROVERBS 9
 ##  WISDOM\'S FRUITS (9:1-12) 
 ###  Its palace (9:1): 

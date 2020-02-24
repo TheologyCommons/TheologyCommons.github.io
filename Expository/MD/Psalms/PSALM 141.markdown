@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 141
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 141.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20141.odp"%}
+
 # PSALM 141 
 ## HEAR MY PRAYER, 0 GOD (141:1-2): 
 ## HONOR MY PRAYER, 0 GOD (141:3-10) 

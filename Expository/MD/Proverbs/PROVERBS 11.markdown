@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2011.odp"%}
+
 # PROVERBS 11
 ##  GOD HATES DISHONESTY (11:1-3): 
 ##  RICHES WON\'T HELP (11:4-9): 

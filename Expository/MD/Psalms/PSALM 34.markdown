@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 34
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 34.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2034.odp"%}
+
 # PSALM 34 
 ## DAVID THE STUDENT (34:1-7): 
 ###  He saved David (34:4-6) 

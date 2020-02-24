@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 75
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 75.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2075.odp"%}
+
 # PSALM 75 
 ## ASAPH\'S PRAISE (75:1, 9): 
 ###  Asaph\'s thanksgiving (75:1): 

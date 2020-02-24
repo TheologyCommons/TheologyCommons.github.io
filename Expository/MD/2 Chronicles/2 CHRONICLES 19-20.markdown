@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 19-20
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 19-20.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2019-20.odp"%}
+
 # 2 CHRONICLES 19-20 
 ## JEHOSHAPHAT THE FAULTED KING (19:1-3; 20:35-37): 
 ###  The military alliance (19:1-3): 

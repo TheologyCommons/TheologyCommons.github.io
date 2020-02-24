@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CHRONICLES 26-28
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Chronicles\2 CHRONICLES 26-28.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Chronicles/2%20CHRONICLES%2026-28.odp"%}
+
 # 2 CHRONICLES 26-28 
 ## UZZIAH, JUDAH\'S TENTH RULER (26:1-23): 
 ###  His accomplishments (26:1-15) 

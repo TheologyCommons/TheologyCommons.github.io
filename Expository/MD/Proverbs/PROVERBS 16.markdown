@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%2016.odp"%}
+
 # PROVERBS 16
 ##  A PURPOSE FOR EVERYTHING (16:1-9): 
 ##  KINGLY ADVICE (16:10-15): 

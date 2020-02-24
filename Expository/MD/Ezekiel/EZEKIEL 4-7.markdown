@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 4-7
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 4-7.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%204-7.odp"%}
+
 # EZEKIEL 4-7 
 ## THE FIRST SYMBOLS PRESENTED BY EZEKIEL (4-6) 
 ###  First illustration (4:1-3) 

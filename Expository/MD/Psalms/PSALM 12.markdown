@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 12
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 12.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2012.odp"%}
+
 # PSALM 12 
 ## THE PROBLEM (12:1-4): 
 ###  The godly seem to be disappearing (12:1). 

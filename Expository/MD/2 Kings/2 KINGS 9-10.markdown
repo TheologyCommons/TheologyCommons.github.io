@@ -2,7 +2,8 @@
 layout: outline
 title: 2 KINGS 9-10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Kings\2 KINGS 9-10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Kings/2%20KINGS%209-10.odp"%}
+
 # 2 KINGS 9-10 
 ## I.THE ANOINTING OF JEHU (9:1-13) 
 ###  The prophet (9:1-6): Elisha instructs one of his young prophets to go to Ramoth-gilead and anoint Jehu as Israel\'s tenth ruler. 

@@ -2,7 +2,8 @@
 layout: outline
 title: JOHN 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\John\JOHN 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/John/JOHN%203.odp"%}
+
 # JOHN 3
 ## JESUS EXPLAINS THE PLAN OF SALVATION (3:1-21): 
 ###  The credentials of Nicodemus (3:1): 

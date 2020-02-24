@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Jonah
-presentation: Expository/ODP/Jonah/Jonah.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jonah/Jonah.odp"%}
+
 # Jonah
 ## JONAH 1-2
 ## JONAH\'S REFUSAL SHOWS GOD\'S PATIENCE (1:1-17). 

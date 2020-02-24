@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 51
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 51.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2051.odp"%}
+
 # PSALM 51 
 ## DAVID\'S CONFESSION (51:1-6) 
 ###  David appeals to God (51:1-2): 

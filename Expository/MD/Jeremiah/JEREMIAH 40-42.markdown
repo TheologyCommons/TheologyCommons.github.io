@@ -2,7 +2,8 @@
 layout: outline
 title: JEREMIAH 40-42
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Jeremiah\JEREMIAH 40-42.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Jeremiah/JEREMIAH%2040-42.odp"%}
+
 # JEREMIAH 40-42 
 ## THE RELEASE (40:1-6): 
 ## THE REASSURANCE (40:7-10) 

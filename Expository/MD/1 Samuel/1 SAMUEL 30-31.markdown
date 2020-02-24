@@ -2,7 +2,8 @@
 layout: outline
 title: 1 SAMUEL 30-31
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Samuel\1 SAMUEL 30-31.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Samuel/1%20SAMUEL%2030-31.odp"%}
+
 # 1 SAMUEL 30-31 
 ## DAVID\'S VENGEANCE (30:1-31) 
 ###  The sorrow (30:1-8) 

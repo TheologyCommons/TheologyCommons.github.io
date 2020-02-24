@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 17-19
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 17-19.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2017-19.odp"%}
+
 # EZEKIEL 17-19
 ## THE PARABLES (17:1-24; 19:1-14) 
 ###  First parable (17:1-6, 11-14) 

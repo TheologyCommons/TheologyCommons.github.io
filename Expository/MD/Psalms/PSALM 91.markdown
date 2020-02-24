@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 91
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 91.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2091.odp"%}
+
 # PSALM 91 
 ## THE FOUNDATION OF FAITH (91:1-2) 
 ###  Believing in the person of God (91:1-2): 

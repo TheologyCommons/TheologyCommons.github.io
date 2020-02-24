@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 104
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 104.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%20104.odp"%}
+
 # PSALM 104 
 ## THE PRAISE TO GOD (104:1, 24, 31, 33-35): 
 ###  For his greatness: 

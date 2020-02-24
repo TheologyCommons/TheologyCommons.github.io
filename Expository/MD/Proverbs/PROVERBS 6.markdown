@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 6
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 6.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%206.odp"%}
+
 # PROVERBS 6
 ##  GOD\'S ADMONITIONS (6:1-15, 24-35): 
 ###  The thoughtless (6:1-5): 

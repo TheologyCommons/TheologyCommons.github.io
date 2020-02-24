@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 88
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 88.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2088.odp"%}
+
 # PSALM 88 
 ## SUFFERING FROM UNANSWERED PRAYER (88:1-2, 13) 
 ###  He cries out to God day and night (88:1-2). 

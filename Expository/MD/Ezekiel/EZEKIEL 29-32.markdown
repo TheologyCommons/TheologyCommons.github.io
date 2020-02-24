@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 29-32
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 29-32.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2029-32.odp"%}
+
 # EZEKIEL 29-32 
 ## THE PARABLE DESCRIBING EGYPT (31:1-9): 
 ## THE PRIDE OF EGYPT (29:1-3; 31:10; 32:1-2) 

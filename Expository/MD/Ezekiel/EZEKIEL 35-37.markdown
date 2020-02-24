@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 35-37
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 35-37.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2035-37.odp"%}
+
 # EZEKIEL 35-37
 ## THE CONDEMNATION OF EDOM (35:1-15; 36:1-7) 
 ###  The perversions of Edom (35:5, 10-13; 36:1-5) 

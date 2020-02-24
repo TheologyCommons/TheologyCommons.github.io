@@ -2,7 +2,8 @@
 layout: outline
 title: 2 CORINTHIANS 11
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\2 Corinthians\2 CORINTHIANS 11.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/2%20Corinthians/2%20CORINTHIANS%2011.odp"%}
+
 # 2 CORINTHIANS 11 
 ## PAUL\'S JEALOUSY OVER THE CHURCH (11:1-2) 
 ###  It is a godly jealousy (11:1-2a). 

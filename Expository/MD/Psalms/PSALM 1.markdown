@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%201.odp"%}
+
 # PSALM 1 
 ## THE GODLY (1:1-3) 
 ###  The contrast (1:1-2) 

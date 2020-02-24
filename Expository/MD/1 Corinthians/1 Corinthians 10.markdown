@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Corinthians 10
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Corinthians\1 Corinthians 10.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Corinthians/1%20Corinthians%2010.odp"%}
+
 # 1 Corinthians 10 
 ## EXAMPLES (10:1-10): 
 ###  The advantages enjoyed by Israel (10:1-4) 

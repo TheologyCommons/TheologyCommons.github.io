@@ -2,7 +2,8 @@
 layout: outline
 title: EZEKIEL 16
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Ezekiel\EZEKIEL 16.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Ezekiel/EZEKIEL%2016.odp"%}
+
 #  EZEKIEL 16
 ## THE PLIGHT (16:1-5): 
 ## THE PITY (16:6-14) 

@@ -2,7 +2,8 @@
 layout: outline
 title: 1 Kings 1
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\1 Kings\1 Kings 1.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/1%20Kings/1%20Kings%201.odp"%}
+
 # 1 Kings 1 
 ## THE COLDNESS OF DAVID (1:1-4): 
 ## THE CONSPIRACY BY ADONIJAH (1:5-10): 

@@ -2,7 +2,8 @@
 layout: outline
 title: PSALM 94
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Psalms\PSALM 94.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Psalms/PSALM%2094.odp"%}
+
 # PSALM 94 
 ## THE LORD GOD AND HIS FOES (94:1-10, 20-21, 23) 
 ###  The psalmist requests their punishment (94:1-3). 

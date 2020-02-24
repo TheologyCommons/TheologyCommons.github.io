@@ -2,7 +2,8 @@
 layout: outline
 title: MATTHEW 22
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Matthew\MATTHEW 22.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Matthew/MATTHEW%2022.odp"%}
+
 # MATTHEW 22
 ## THE LORD OF ISRAEL OVERVIEWS THE KINGDOM OF HEAVEN (22:1-14) 
 ###  The illustration of the wedding (22:1-2): 

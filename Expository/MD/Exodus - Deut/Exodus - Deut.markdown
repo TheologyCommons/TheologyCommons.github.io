@@ -1,8 +1,9 @@
 ---
 layout: outline
 title: Exodus - Deut
-presentation: Expository/ODP/Exodus%20-%20Deut/Exodus%20-%20Deut.odp
 ---
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Exodus%20-%20Deut/Exodus%20-%20Deut.odp"%}
+
 # Exodus - Deut
 ## PART ONE: GOD\'S DELIVERANCE OF ISRAEL-THE PREVIEW (EXODUS 1) 
 ### SECTION OUTLINE ONE (EXODUS 1) 

@@ -2,7 +2,8 @@
 layout: outline
 title: PROVERBS 3
 ---
-[Presentation](D:\TheologyCommons\Site\Expository\ODP\Proverbs\PROVERBS 3.odp)
+{%include presentationFrame.html presentationSrc="/Expository/ODP/Proverbs/PROVERBS%203.odp"%}
+
 # PROVERBS 3
 ##  THE ROUTE (3:1, 3) 
 ###  Keep its precepts in your heart (3:1): 
