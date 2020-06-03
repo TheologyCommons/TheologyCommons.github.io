@@ -24,6 +24,10 @@
 
 	  gtag('config', 'UA-168448191-1');
 	</script>
+	    <script
+      crossorigin="anonymous"
+      src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"
+    ></script>
 </head>
 
 <body>
@@ -41,8 +45,17 @@
 		</header>
 		<button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
 			{% include menu.html %}
-			<div class="content">
-			  {{ content }}
+			<div id="webchat" class="content">
+    <script>
+      window.WebChat.renderWebChat(
+        {
+          directLine: window.WebChat.createDirectLine({
+            token: '-Ao_g8-Zfx4.2dcmp853mfrVvnvjgA92om5lt0mFRqmL8_r8WyOBr7A'
+          }),
+        },
+        document.getElementById('webchat')
+      );
+    </script>
 			</div
 	</div>
 	<!-- /view -->
